@@ -1,0 +1,4983 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <DATE>1934-01-01 00:00:00</DATE>
+    <TAVG>1.94</TAVG>
+    <PRCP>12.4</PRCP>
+  </row>
+  <row>
+    <DATE>1934-02-01 00:00:00</DATE>
+    <TAVG>0.79</TAVG>
+    <PRCP>20.6</PRCP>
+  </row>
+  <row>
+    <DATE>1934-03-01 00:00:00</DATE>
+    <TAVG>5.51</TAVG>
+    <PRCP>16.6</PRCP>
+  </row>
+  <row>
+    <DATE>1934-04-01 00:00:00</DATE>
+    <TAVG>14.26</TAVG>
+    <PRCP>61.0</PRCP>
+  </row>
+  <row>
+    <DATE>1934-05-01 00:00:00</DATE>
+    <TAVG>21.65</TAVG>
+    <PRCP>79.8</PRCP>
+  </row>
+  <row>
+    <DATE>1934-06-01 00:00:00</DATE>
+    <TAVG>28.43</TAVG>
+    <PRCP>43.4</PRCP>
+  </row>
+  <row>
+    <DATE>1934-07-01 00:00:00</DATE>
+    <TAVG>31.29</TAVG>
+    <PRCP>57.5</PRCP>
+  </row>
+  <row>
+    <DATE>1934-08-01 00:00:00</DATE>
+    <TAVG>28.39</TAVG>
+    <PRCP>36.7</PRCP>
+  </row>
+  <row>
+    <DATE>1934-09-01 00:00:00</DATE>
+    <TAVG>18.93</TAVG>
+    <PRCP>163.8</PRCP>
+  </row>
+  <row>
+    <DATE>1934-10-01 00:00:00</DATE>
+    <TAVG>17.22</TAVG>
+    <PRCP>47.7</PRCP>
+  </row>
+  <row>
+    <DATE>1934-11-01 00:00:00</DATE>
+    <TAVG>8.85</TAVG>
+    <PRCP>137.2</PRCP>
+  </row>
+  <row>
+    <DATE>1934-12-01 00:00:00</DATE>
+    <TAVG>-0.51</TAVG>
+    <PRCP>13.6</PRCP>
+  </row>
+  <row>
+    <DATE>1935-01-01 00:00:00</DATE>
+    <TAVG>0.22</TAVG>
+    <PRCP>28.7</PRCP>
+  </row>
+  <row>
+    <DATE>1935-02-01 00:00:00</DATE>
+    <TAVG>2.71</TAVG>
+    <PRCP>34.0</PRCP>
+  </row>
+  <row>
+    <DATE>1935-03-01 00:00:00</DATE>
+    <TAVG>10.65</TAVG>
+    <PRCP>17.5</PRCP>
+  </row>
+  <row>
+    <DATE>1935-04-01 00:00:00</DATE>
+    <TAVG>11.22</TAVG>
+    <PRCP>58.6</PRCP>
+  </row>
+  <row>
+    <DATE>1935-05-01 00:00:00</DATE>
+    <TAVG>15.44</TAVG>
+    <PRCP>254.0</PRCP>
+  </row>
+  <row>
+    <DATE>1935-06-01 00:00:00</DATE>
+    <TAVG>21.97</TAVG>
+    <PRCP>82.3</PRCP>
+  </row>
+  <row>
+    <DATE>1935-07-01 00:00:00</DATE>
+    <TAVG>30.45</TAVG>
+    <PRCP>12.9</PRCP>
+  </row>
+  <row>
+    <DATE>1935-08-01 00:00:00</DATE>
+    <TAVG>26.85</TAVG>
+    <PRCP>58.0</PRCP>
+  </row>
+  <row>
+    <DATE>1935-09-01 00:00:00</DATE>
+    <TAVG>21.21</TAVG>
+    <PRCP>116.9</PRCP>
+  </row>
+  <row>
+    <DATE>1935-10-01 00:00:00</DATE>
+    <TAVG>13.44</TAVG>
+    <PRCP>93.6</PRCP>
+  </row>
+  <row>
+    <DATE>1935-11-01 00:00:00</DATE>
+    <TAVG>5.28</TAVG>
+    <PRCP>97.5</PRCP>
+  </row>
+  <row>
+    <DATE>1935-12-01 00:00:00</DATE>
+    <TAVG>0.1</TAVG>
+    <PRCP>6.4</PRCP>
+  </row>
+  <row>
+    <DATE>1936-01-01 00:00:00</DATE>
+    <TAVG>-5.74</TAVG>
+    <PRCP>29.9</PRCP>
+  </row>
+  <row>
+    <DATE>1936-02-01 00:00:00</DATE>
+    <TAVG>-6.86</TAVG>
+    <PRCP>14.0</PRCP>
+  </row>
+  <row>
+    <DATE>1936-03-01 00:00:00</DATE>
+    <TAVG>9.39</TAVG>
+    <PRCP>2.1</PRCP>
+  </row>
+  <row>
+    <DATE>1936-04-01 00:00:00</DATE>
+    <TAVG>12.4</TAVG>
+    <PRCP>47.9</PRCP>
+  </row>
+  <row>
+    <DATE>1936-05-01 00:00:00</DATE>
+    <TAVG>21.59</TAVG>
+    <PRCP>105.6</PRCP>
+  </row>
+  <row>
+    <DATE>1936-06-01 00:00:00</DATE>
+    <TAVG>25.78</TAVG>
+    <PRCP>13.0</PRCP>
+  </row>
+  <row>
+    <DATE>1936-07-01 00:00:00</DATE>
+    <TAVG>30.97</TAVG>
+    <PRCP>9.2</PRCP>
+  </row>
+  <row>
+    <DATE>1936-08-01 00:00:00</DATE>
+    <TAVG>30.55</TAVG>
+    <PRCP>6.4</PRCP>
+  </row>
+  <row>
+    <DATE>1936-09-01 00:00:00</DATE>
+    <TAVG>23.09</TAVG>
+    <PRCP>203.2</PRCP>
+  </row>
+  <row>
+    <DATE>1936-10-01 00:00:00</DATE>
+    <TAVG>13.98</TAVG>
+    <PRCP>51.0</PRCP>
+  </row>
+  <row>
+    <DATE>1936-11-01 00:00:00</DATE>
+    <TAVG>5.81</TAVG>
+    <PRCP>4.9</PRCP>
+  </row>
+  <row>
+    <DATE>1936-12-01 00:00:00</DATE>
+    <TAVG>3.77</TAVG>
+    <PRCP>59.8</PRCP>
+  </row>
+  <row>
+    <DATE>1937-01-01 00:00:00</DATE>
+    <TAVG>-5.03</TAVG>
+    <PRCP>85.6</PRCP>
+  </row>
+  <row>
+    <DATE>1937-02-01 00:00:00</DATE>
+    <TAVG>-0.48</TAVG>
+    <PRCP>22.0</PRCP>
+  </row>
+  <row>
+    <DATE>1937-03-01 00:00:00</DATE>
+    <TAVG>4.29</TAVG>
+    <PRCP>44.0</PRCP>
+  </row>
+  <row>
+    <DATE>1937-04-01 00:00:00</DATE>
+    <TAVG>12.23</TAVG>
+    <PRCP>63.8</PRCP>
+  </row>
+  <row>
+    <DATE>1937-05-01 00:00:00</DATE>
+    <TAVG>19.56</TAVG>
+    <PRCP>92.3</PRCP>
+  </row>
+  <row>
+    <DATE>1937-06-01 00:00:00</DATE>
+    <TAVG>24.29</TAVG>
+    <PRCP>94.7</PRCP>
+  </row>
+  <row>
+    <DATE>1937-07-01 00:00:00</DATE>
+    <TAVG>27.45</TAVG>
+    <PRCP>78.8</PRCP>
+  </row>
+  <row>
+    <DATE>1937-08-01 00:00:00</DATE>
+    <TAVG>28.79</TAVG>
+    <PRCP>57.4</PRCP>
+  </row>
+  <row>
+    <DATE>1937-09-01 00:00:00</DATE>
+    <TAVG>22.26</TAVG>
+    <PRCP>5.3</PRCP>
+  </row>
+  <row>
+    <DATE>1937-10-01 00:00:00</DATE>
+    <TAVG>13.9</TAVG>
+    <PRCP>29.2</PRCP>
+  </row>
+  <row>
+    <DATE>1937-11-01 00:00:00</DATE>
+    <TAVG>4.33</TAVG>
+    <PRCP>33.8</PRCP>
+  </row>
+  <row>
+    <DATE>1937-12-01 00:00:00</DATE>
+    <TAVG>-0.45</TAVG>
+    <PRCP>24.3</PRCP>
+  </row>
+  <row>
+    <DATE>1938-01-01 00:00:00</DATE>
+    <TAVG>0.03</TAVG>
+    <PRCP>48.0</PRCP>
+  </row>
+  <row>
+    <DATE>1938-02-01 00:00:00</DATE>
+    <TAVG>3.37</TAVG>
+    <PRCP>22.9</PRCP>
+  </row>
+  <row>
+    <DATE>1938-03-01 00:00:00</DATE>
+    <TAVG>11.17</TAVG>
+    <PRCP>78.0</PRCP>
+  </row>
+  <row>
+    <DATE>1938-04-01 00:00:00</DATE>
+    <TAVG>13.52</TAVG>
+    <PRCP>47.6</PRCP>
+  </row>
+  <row>
+    <DATE>1938-05-01 00:00:00</DATE>
+    <TAVG>18.47</TAVG>
+    <PRCP>194.2</PRCP>
+  </row>
+  <row>
+    <DATE>1938-06-01 00:00:00</DATE>
+    <TAVG>23.34</TAVG>
+    <PRCP>132.7</PRCP>
+  </row>
+  <row>
+    <DATE>1938-07-01 00:00:00</DATE>
+    <TAVG>28.02</TAVG>
+    <PRCP>97.1</PRCP>
+  </row>
+  <row>
+    <DATE>1938-08-01 00:00:00</DATE>
+    <TAVG>28.38</TAVG>
+    <PRCP>172.2</PRCP>
+  </row>
+  <row>
+    <DATE>1938-09-01 00:00:00</DATE>
+    <TAVG>22.38</TAVG>
+    <PRCP>46.9</PRCP>
+  </row>
+  <row>
+    <DATE>1938-10-01 00:00:00</DATE>
+    <TAVG>19.15</TAVG>
+    <PRCP>17.8</PRCP>
+  </row>
+  <row>
+    <DATE>1938-11-01 00:00:00</DATE>
+    <TAVG>7.3</TAVG>
+    <PRCP>68.6</PRCP>
+  </row>
+  <row>
+    <DATE>1938-12-01 00:00:00</DATE>
+    <TAVG>2.27</TAVG>
+    <PRCP>13.9</PRCP>
+  </row>
+  <row>
+    <DATE>1939-01-01 00:00:00</DATE>
+    <TAVG>3.61</TAVG>
+    <PRCP>32.4</PRCP>
+  </row>
+  <row>
+    <DATE>1939-02-01 00:00:00</DATE>
+    <TAVG>-1.42</TAVG>
+    <PRCP>24.9</PRCP>
+  </row>
+  <row>
+    <DATE>1939-03-01 00:00:00</DATE>
+    <TAVG>7.71</TAVG>
+    <PRCP>29.0</PRCP>
+  </row>
+  <row>
+    <DATE>1939-04-01 00:00:00</DATE>
+    <TAVG>12.15</TAVG>
+    <PRCP>179.0</PRCP>
+  </row>
+  <row>
+    <DATE>1939-05-01 00:00:00</DATE>
+    <TAVG>21.15</TAVG>
+    <PRCP>72.6</PRCP>
+  </row>
+  <row>
+    <DATE>1939-06-01 00:00:00</DATE>
+    <TAVG>24.48</TAVG>
+    <PRCP>279.2</PRCP>
+  </row>
+  <row>
+    <DATE>1939-07-01 00:00:00</DATE>
+    <TAVG>29.3</TAVG>
+    <PRCP>29.9</PRCP>
+  </row>
+  <row>
+    <DATE>1939-08-01 00:00:00</DATE>
+    <TAVG>25.02</TAVG>
+    <PRCP>117.7</PRCP>
+  </row>
+  <row>
+    <DATE>1939-09-01 00:00:00</DATE>
+    <TAVG>24.84</TAVG>
+    <PRCP>13.7</PRCP>
+  </row>
+  <row>
+    <DATE>1939-10-01 00:00:00</DATE>
+    <TAVG>16.72</TAVG>
+    <PRCP>24.1</PRCP>
+  </row>
+  <row>
+    <DATE>1939-11-01 00:00:00</DATE>
+    <TAVG>6.53</TAVG>
+    <PRCP>62.3</PRCP>
+  </row>
+  <row>
+    <DATE>1939-12-01 00:00:00</DATE>
+    <TAVG>4.09</TAVG>
+    <PRCP>17.3</PRCP>
+  </row>
+  <row>
+    <DATE>1940-01-01 00:00:00</DATE>
+    <TAVG>-10.65</TAVG>
+    <PRCP>32.1</PRCP>
+  </row>
+  <row>
+    <DATE>1940-02-01 00:00:00</DATE>
+    <TAVG>0.41</TAVG>
+    <PRCP>27.3</PRCP>
+  </row>
+  <row>
+    <DATE>1940-03-01 00:00:00</DATE>
+    <TAVG>5.93</TAVG>
+    <PRCP>49.6</PRCP>
+  </row>
+  <row>
+    <DATE>1940-04-01 00:00:00</DATE>
+    <TAVG>12.23</TAVG>
+    <PRCP>107.0</PRCP>
+  </row>
+  <row>
+    <DATE>1940-05-01 00:00:00</DATE>
+    <TAVG>17.56</TAVG>
+    <PRCP>110.1</PRCP>
+  </row>
+  <row>
+    <DATE>1940-06-01 00:00:00</DATE>
+    <TAVG>23.71</TAVG>
+    <PRCP>97.6</PRCP>
+  </row>
+  <row>
+    <DATE>1940-07-01 00:00:00</DATE>
+    <TAVG>27.53</TAVG>
+    <PRCP>20.3</PRCP>
+  </row>
+  <row>
+    <DATE>1940-08-01 00:00:00</DATE>
+    <TAVG>24.62</TAVG>
+    <PRCP>164.7</PRCP>
+  </row>
+  <row>
+    <DATE>1940-09-01 00:00:00</DATE>
+    <TAVG>21.14</TAVG>
+    <PRCP>33.0</PRCP>
+  </row>
+  <row>
+    <DATE>1940-10-01 00:00:00</DATE>
+    <TAVG>18.55</TAVG>
+    <PRCP>42.6</PRCP>
+  </row>
+  <row>
+    <DATE>1940-11-01 00:00:00</DATE>
+    <TAVG>4.92</TAVG>
+    <PRCP>100.2</PRCP>
+  </row>
+  <row>
+    <DATE>1940-12-01 00:00:00</DATE>
+    <TAVG>2.92</TAVG>
+    <PRCP>42.8</PRCP>
+  </row>
+  <row>
+    <DATE>1941-01-01 00:00:00</DATE>
+    <TAVG>0.1</TAVG>
+    <PRCP>124.8</PRCP>
+  </row>
+  <row>
+    <DATE>1941-02-01 00:00:00</DATE>
+    <TAVG>-0.14</TAVG>
+    <PRCP>14.7</PRCP>
+  </row>
+  <row>
+    <DATE>1941-03-01 00:00:00</DATE>
+    <TAVG>4.8</TAVG>
+    <PRCP>22.2</PRCP>
+  </row>
+  <row>
+    <DATE>1941-04-01 00:00:00</DATE>
+    <TAVG>15.03</TAVG>
+    <PRCP>102.4</PRCP>
+  </row>
+  <row>
+    <DATE>1941-05-01 00:00:00</DATE>
+    <TAVG>21.38</TAVG>
+    <PRCP>80.8</PRCP>
+  </row>
+  <row>
+    <DATE>1941-06-01 00:00:00</DATE>
+    <TAVG>23.78</TAVG>
+    <PRCP>172.5</PRCP>
+  </row>
+  <row>
+    <DATE>1941-07-01 00:00:00</DATE>
+    <TAVG>26.7</TAVG>
+    <PRCP>59.6</PRCP>
+  </row>
+  <row>
+    <DATE>1941-08-01 00:00:00</DATE>
+    <TAVG>26.41</TAVG>
+    <PRCP>118.3</PRCP>
+  </row>
+  <row>
+    <DATE>1941-09-01 00:00:00</DATE>
+    <TAVG>22.42</TAVG>
+    <PRCP>117.4</PRCP>
+  </row>
+  <row>
+    <DATE>1941-10-01 00:00:00</DATE>
+    <TAVG>15.77</TAVG>
+    <PRCP>303.4</PRCP>
+  </row>
+  <row>
+    <DATE>1941-11-01 00:00:00</DATE>
+    <TAVG>7.93</TAVG>
+    <PRCP>24.0</PRCP>
+  </row>
+  <row>
+    <DATE>1941-12-01 00:00:00</DATE>
+    <TAVG>4.42</TAVG>
+    <PRCP>44.7</PRCP>
+  </row>
+  <row>
+    <DATE>1942-01-01 00:00:00</DATE>
+    <TAVG>-0.27</TAVG>
+    <PRCP>3.6</PRCP>
+  </row>
+  <row>
+    <DATE>1942-02-01 00:00:00</DATE>
+    <TAVG>0.09</TAVG>
+    <PRCP>80.4</PRCP>
+  </row>
+  <row>
+    <DATE>1942-03-01 00:00:00</DATE>
+    <TAVG>7.16</TAVG>
+    <PRCP>66.5</PRCP>
+  </row>
+  <row>
+    <DATE>1942-04-01 00:00:00</DATE>
+    <TAVG>15.83</TAVG>
+    <PRCP>116.4</PRCP>
+  </row>
+  <row>
+    <DATE>1942-05-01 00:00:00</DATE>
+    <TAVG>17.89</TAVG>
+    <PRCP>93.6</PRCP>
+  </row>
+  <row>
+    <DATE>1942-06-01 00:00:00</DATE>
+    <TAVG>23.42</TAVG>
+    <PRCP>186.8</PRCP>
+  </row>
+  <row>
+    <DATE>1942-07-01 00:00:00</DATE>
+    <TAVG>27.5</TAVG>
+    <PRCP>68.3</PRCP>
+  </row>
+  <row>
+    <DATE>1942-08-01 00:00:00</DATE>
+    <TAVG>24.85</TAVG>
+    <PRCP>147.3</PRCP>
+  </row>
+  <row>
+    <DATE>1942-09-01 00:00:00</DATE>
+    <TAVG>19.84</TAVG>
+    <PRCP>80.0</PRCP>
+  </row>
+  <row>
+    <DATE>1942-10-01 00:00:00</DATE>
+    <TAVG>14.99</TAVG>
+    <PRCP>68.0</PRCP>
+  </row>
+  <row>
+    <DATE>1942-11-01 00:00:00</DATE>
+    <TAVG>8.22</TAVG>
+    <PRCP>69.6</PRCP>
+  </row>
+  <row>
+    <DATE>1942-12-01 00:00:00</DATE>
+    <TAVG>-0.61</TAVG>
+    <PRCP>61.8</PRCP>
+  </row>
+  <row>
+    <DATE>1943-01-01 00:00:00</DATE>
+    <TAVG>-2.08</TAVG>
+    <PRCP>8.0</PRCP>
+  </row>
+  <row>
+    <DATE>1943-02-01 00:00:00</DATE>
+    <TAVG>3.66</TAVG>
+    <PRCP>15.5</PRCP>
+  </row>
+  <row>
+    <DATE>1943-03-01 00:00:00</DATE>
+    <TAVG>3.86</TAVG>
+    <PRCP>29.9</PRCP>
+  </row>
+  <row>
+    <DATE>1943-04-01 00:00:00</DATE>
+    <TAVG>14.02</TAVG>
+    <PRCP>44.4</PRCP>
+  </row>
+  <row>
+    <DATE>1943-05-01 00:00:00</DATE>
+    <TAVG>17.05</TAVG>
+    <PRCP>119.9</PRCP>
+  </row>
+  <row>
+    <DATE>1943-06-01 00:00:00</DATE>
+    <TAVG>24.8</TAVG>
+    <PRCP>194.6</PRCP>
+  </row>
+  <row>
+    <DATE>1943-07-01 00:00:00</DATE>
+    <TAVG>27.41</TAVG>
+    <PRCP>86.2</PRCP>
+  </row>
+  <row>
+    <DATE>1943-08-01 00:00:00</DATE>
+    <TAVG>27.25</TAVG>
+    <PRCP>48.3</PRCP>
+  </row>
+  <row>
+    <DATE>1943-09-01 00:00:00</DATE>
+    <TAVG>19.06</TAVG>
+    <PRCP>57.8</PRCP>
+  </row>
+  <row>
+    <DATE>1943-10-01 00:00:00</DATE>
+    <TAVG>13.68</TAVG>
+    <PRCP>49.0</PRCP>
+  </row>
+  <row>
+    <DATE>1943-11-01 00:00:00</DATE>
+    <TAVG>5.38</TAVG>
+    <PRCP>5.1</PRCP>
+  </row>
+  <row>
+    <DATE>1943-12-01 00:00:00</DATE>
+    <TAVG>-0.79</TAVG>
+    <PRCP>37.3</PRCP>
+  </row>
+  <row>
+    <DATE>1944-01-01 00:00:00</DATE>
+    <TAVG>2.21</TAVG>
+    <PRCP>17.4</PRCP>
+  </row>
+  <row>
+    <DATE>1944-02-01 00:00:00</DATE>
+    <TAVG>2.02</TAVG>
+    <PRCP>45.3</PRCP>
+  </row>
+  <row>
+    <DATE>1944-03-01 00:00:00</DATE>
+    <TAVG>4.01</TAVG>
+    <PRCP>129.3</PRCP>
+  </row>
+  <row>
+    <DATE>1944-04-01 00:00:00</DATE>
+    <TAVG>10.18</TAVG>
+    <PRCP>268.5</PRCP>
+  </row>
+  <row>
+    <DATE>1944-05-01 00:00:00</DATE>
+    <TAVG>20.85</TAVG>
+    <PRCP>105.3</PRCP>
+  </row>
+  <row>
+    <DATE>1944-06-01 00:00:00</DATE>
+    <TAVG>24.96</TAVG>
+    <PRCP>96.0</PRCP>
+  </row>
+  <row>
+    <DATE>1944-07-01 00:00:00</DATE>
+    <TAVG>25.97</TAVG>
+    <PRCP>89.9</PRCP>
+  </row>
+  <row>
+    <DATE>1944-08-01 00:00:00</DATE>
+    <TAVG>24.74</TAVG>
+    <PRCP>202.6</PRCP>
+  </row>
+  <row>
+    <DATE>1944-09-01 00:00:00</DATE>
+    <TAVG>21.37</TAVG>
+    <PRCP>111.2</PRCP>
+  </row>
+  <row>
+    <DATE>1944-10-01 00:00:00</DATE>
+    <TAVG>16.23</TAVG>
+    <PRCP>26.2</PRCP>
+  </row>
+  <row>
+    <DATE>1944-11-01 00:00:00</DATE>
+    <TAVG>8.29</TAVG>
+    <PRCP>74.8</PRCP>
+  </row>
+  <row>
+    <DATE>1944-12-01 00:00:00</DATE>
+    <TAVG>-2.13</TAVG>
+    <PRCP>95.1</PRCP>
+  </row>
+  <row>
+    <DATE>1945-01-01 00:00:00</DATE>
+    <TAVG>-0.75</TAVG>
+    <PRCP>9.7</PRCP>
+  </row>
+  <row>
+    <DATE>1945-02-01 00:00:00</DATE>
+    <TAVG>1.65</TAVG>
+    <PRCP>21.7</PRCP>
+  </row>
+  <row>
+    <DATE>1945-03-01 00:00:00</DATE>
+    <TAVG>10.97</TAVG>
+    <PRCP>109.8</PRCP>
+  </row>
+  <row>
+    <DATE>1945-04-01 00:00:00</DATE>
+    <TAVG>12.43</TAVG>
+    <PRCP>168.4</PRCP>
+  </row>
+  <row>
+    <DATE>1945-05-01 00:00:00</DATE>
+    <TAVG>15.97</TAVG>
+    <PRCP>140.9</PRCP>
+  </row>
+  <row>
+    <DATE>1945-06-01 00:00:00</DATE>
+    <TAVG>20.51</TAVG>
+    <PRCP>153.7</PRCP>
+  </row>
+  <row>
+    <DATE>1945-07-01 00:00:00</DATE>
+    <TAVG>25.24</TAVG>
+    <PRCP>44.0</PRCP>
+  </row>
+  <row>
+    <DATE>1945-08-01 00:00:00</DATE>
+    <TAVG>26.5</TAVG>
+    <PRCP>6.6</PRCP>
+  </row>
+  <row>
+    <DATE>1945-09-01 00:00:00</DATE>
+    <TAVG>21.03</TAVG>
+    <PRCP>166.5</PRCP>
+  </row>
+  <row>
+    <DATE>1945-10-01 00:00:00</DATE>
+    <TAVG>14.03</TAVG>
+    <PRCP>23.4</PRCP>
+  </row>
+  <row>
+    <DATE>1945-11-01 00:00:00</DATE>
+    <TAVG>7.91</TAVG>
+    <PRCP>15.3</PRCP>
+  </row>
+  <row>
+    <DATE>1945-12-01 00:00:00</DATE>
+    <TAVG>-3.46</TAVG>
+    <PRCP>36.1</PRCP>
+  </row>
+  <row>
+    <DATE>1946-01-01 00:00:00</DATE>
+    <TAVG>0.58</TAVG>
+    <PRCP>86.3</PRCP>
+  </row>
+  <row>
+    <DATE>1946-02-01 00:00:00</DATE>
+    <TAVG>5.41</TAVG>
+    <PRCP>23.9</PRCP>
+  </row>
+  <row>
+    <DATE>1946-03-01 00:00:00</DATE>
+    <TAVG>13.12</TAVG>
+    <PRCP>63.2</PRCP>
+  </row>
+  <row>
+    <DATE>1946-04-01 00:00:00</DATE>
+    <TAVG>15.83</TAVG>
+    <PRCP>116.2</PRCP>
+  </row>
+  <row>
+    <DATE>1946-05-01 00:00:00</DATE>
+    <TAVG>16.76</TAVG>
+    <PRCP>72.9</PRCP>
+  </row>
+  <row>
+    <DATE>1946-06-01 00:00:00</DATE>
+    <TAVG>24.52</TAVG>
+    <PRCP>111.0</PRCP>
+  </row>
+  <row>
+    <DATE>1946-07-01 00:00:00</DATE>
+    <TAVG>27.34</TAVG>
+    <PRCP>24.0</PRCP>
+  </row>
+  <row>
+    <DATE>1946-08-01 00:00:00</DATE>
+    <TAVG>24.99</TAVG>
+    <PRCP>94.0</PRCP>
+  </row>
+  <row>
+    <DATE>1946-09-01 00:00:00</DATE>
+    <TAVG>20.72</TAVG>
+    <PRCP>62.3</PRCP>
+  </row>
+  <row>
+    <DATE>1946-10-01 00:00:00</DATE>
+    <TAVG>16.81</TAVG>
+    <PRCP>97.3</PRCP>
+  </row>
+  <row>
+    <DATE>1946-11-01 00:00:00</DATE>
+    <TAVG>8.05</TAVG>
+    <PRCP>14.8</PRCP>
+  </row>
+  <row>
+    <DATE>1946-12-01 00:00:00</DATE>
+    <TAVG>3.69</TAVG>
+    <PRCP>36.4</PRCP>
+  </row>
+  <row>
+    <DATE>1947-01-01 00:00:00</DATE>
+    <TAVG>0.67</TAVG>
+    <PRCP>21.1</PRCP>
+  </row>
+  <row>
+    <DATE>1947-02-01 00:00:00</DATE>
+    <TAVG>-1.71</TAVG>
+    <PRCP>11.4</PRCP>
+  </row>
+  <row>
+    <DATE>1947-03-01 00:00:00</DATE>
+    <TAVG>3.11</TAVG>
+    <PRCP>127.8</PRCP>
+  </row>
+  <row>
+    <DATE>1947-04-01 00:00:00</DATE>
+    <TAVG>12.24</TAVG>
+    <PRCP>197.1</PRCP>
+  </row>
+  <row>
+    <DATE>1947-05-01 00:00:00</DATE>
+    <TAVG>16.61</TAVG>
+    <PRCP>108.2</PRCP>
+  </row>
+  <row>
+    <DATE>1947-06-01 00:00:00</DATE>
+    <TAVG>23.01</TAVG>
+    <PRCP>208.1</PRCP>
+  </row>
+  <row>
+    <DATE>1947-07-01 00:00:00</DATE>
+    <TAVG>26.0</TAVG>
+    <PRCP>27.2</PRCP>
+  </row>
+  <row>
+    <DATE>1947-08-01 00:00:00</DATE>
+    <TAVG>30.15</TAVG>
+    <PRCP>110.4</PRCP>
+  </row>
+  <row>
+    <DATE>1947-09-01 00:00:00</DATE>
+    <TAVG>23.23</TAVG>
+    <PRCP>101.9</PRCP>
+  </row>
+  <row>
+    <DATE>1947-10-01 00:00:00</DATE>
+    <TAVG>19.98</TAVG>
+    <PRCP>133.5</PRCP>
+  </row>
+  <row>
+    <DATE>1947-11-01 00:00:00</DATE>
+    <TAVG>4.44</TAVG>
+    <PRCP>40.7</PRCP>
+  </row>
+  <row>
+    <DATE>1947-12-01 00:00:00</DATE>
+    <TAVG>2.93</TAVG>
+    <PRCP>91.9</PRCP>
+  </row>
+  <row>
+    <DATE>1948-01-01 00:00:00</DATE>
+    <TAVG>-3.82</TAVG>
+    <PRCP>13.6</PRCP>
+  </row>
+  <row>
+    <DATE>1948-02-01 00:00:00</DATE>
+    <TAVG>-0.59</TAVG>
+    <PRCP>24.0</PRCP>
+  </row>
+  <row>
+    <DATE>1948-03-01 00:00:00</DATE>
+    <TAVG>4.2</TAVG>
+    <PRCP>123.1</PRCP>
+  </row>
+  <row>
+    <DATE>1948-04-01 00:00:00</DATE>
+    <TAVG>16.58</TAVG>
+    <PRCP>20.3</PRCP>
+  </row>
+  <row>
+    <DATE>1948-05-01 00:00:00</DATE>
+    <TAVG>18.59</TAVG>
+    <PRCP>43.8</PRCP>
+  </row>
+  <row>
+    <DATE>1948-06-01 00:00:00</DATE>
+    <TAVG>23.74</TAVG>
+    <PRCP>138.4</PRCP>
+  </row>
+  <row>
+    <DATE>1948-07-01 00:00:00</DATE>
+    <TAVG>26.38</TAVG>
+    <PRCP>185.3</PRCP>
+  </row>
+  <row>
+    <DATE>1948-08-01 00:00:00</DATE>
+    <TAVG>26.28</TAVG>
+    <PRCP>68.8</PRCP>
+  </row>
+  <row>
+    <DATE>1948-09-01 00:00:00</DATE>
+    <TAVG>22.58</TAVG>
+    <PRCP>47.8</PRCP>
+  </row>
+  <row>
+    <DATE>1948-10-01 00:00:00</DATE>
+    <TAVG>14.06</TAVG>
+    <PRCP>48.1</PRCP>
+  </row>
+  <row>
+    <DATE>1948-11-01 00:00:00</DATE>
+    <TAVG>7.91</TAVG>
+    <PRCP>42.9</PRCP>
+  </row>
+  <row>
+    <DATE>1948-12-01 00:00:00</DATE>
+    <TAVG>2.1</TAVG>
+    <PRCP>30.9</PRCP>
+  </row>
+  <row>
+    <DATE>1949-01-01 00:00:00</DATE>
+    <TAVG>-3.4</TAVG>
+    <PRCP>133.1</PRCP>
+  </row>
+  <row>
+    <DATE>1949-02-01 00:00:00</DATE>
+    <TAVG>0.2</TAVG>
+    <PRCP>34.6</PRCP>
+  </row>
+  <row>
+    <DATE>1949-03-01 00:00:00</DATE>
+    <TAVG>6.05</TAVG>
+    <PRCP>74.3</PRCP>
+  </row>
+  <row>
+    <DATE>1949-04-01 00:00:00</DATE>
+    <TAVG>12.86</TAVG>
+    <PRCP>51.5</PRCP>
+  </row>
+  <row>
+    <DATE>1949-05-01 00:00:00</DATE>
+    <TAVG>20.51</TAVG>
+    <PRCP>135.0</PRCP>
+  </row>
+  <row>
+    <DATE>1949-06-01 00:00:00</DATE>
+    <TAVG>25.02</TAVG>
+    <PRCP>162.8</PRCP>
+  </row>
+  <row>
+    <DATE>1949-07-01 00:00:00</DATE>
+    <TAVG>27.03</TAVG>
+    <PRCP>83.9</PRCP>
+  </row>
+  <row>
+    <DATE>1949-08-01 00:00:00</DATE>
+    <TAVG>25.13</TAVG>
+    <PRCP>80.1</PRCP>
+  </row>
+  <row>
+    <DATE>1949-09-01 00:00:00</DATE>
+    <TAVG>18.03</TAVG>
+    <PRCP>111.1</PRCP>
+  </row>
+  <row>
+    <DATE>1949-10-01 00:00:00</DATE>
+    <TAVG>15.92</TAVG>
+    <PRCP>145.0</PRCP>
+  </row>
+  <row>
+    <DATE>1949-11-01 00:00:00</DATE>
+    <TAVG>9.87</TAVG>
+    <PRCP>5.4</PRCP>
+  </row>
+  <row>
+    <DATE>1949-12-01 00:00:00</DATE>
+    <TAVG>2.85</TAVG>
+    <PRCP>49.6</PRCP>
+  </row>
+  <row>
+    <DATE>1950-01-01 00:00:00</DATE>
+    <TAVG>-0.92</TAVG>
+    <PRCP>17.6</PRCP>
+  </row>
+  <row>
+    <DATE>1950-02-01 00:00:00</DATE>
+    <TAVG>1.9</TAVG>
+    <PRCP>31.1</PRCP>
+  </row>
+  <row>
+    <DATE>1950-03-01 00:00:00</DATE>
+    <TAVG>4.46</TAVG>
+    <PRCP>18.0</PRCP>
+  </row>
+  <row>
+    <DATE>1950-04-01 00:00:00</DATE>
+    <TAVG>10.47</TAVG>
+    <PRCP>60.6</PRCP>
+  </row>
+  <row>
+    <DATE>1950-05-01 00:00:00</DATE>
+    <TAVG>19.41</TAVG>
+    <PRCP>82.9</PRCP>
+  </row>
+  <row>
+    <DATE>1950-06-01 00:00:00</DATE>
+    <TAVG>23.99</TAVG>
+    <PRCP>66.7</PRCP>
+  </row>
+  <row>
+    <DATE>1950-07-01 00:00:00</DATE>
+    <TAVG>22.47</TAVG>
+    <PRCP>251.6</PRCP>
+  </row>
+  <row>
+    <DATE>1950-08-01 00:00:00</DATE>
+    <TAVG>22.24</TAVG>
+    <PRCP>146.6</PRCP>
+  </row>
+  <row>
+    <DATE>1950-09-01 00:00:00</DATE>
+    <TAVG>19.92</TAVG>
+    <PRCP>63.0</PRCP>
+  </row>
+  <row>
+    <DATE>1950-10-01 00:00:00</DATE>
+    <TAVG>18.25</TAVG>
+    <PRCP>12.7</PRCP>
+  </row>
+  <row>
+    <DATE>1950-11-01 00:00:00</DATE>
+    <TAVG>4.88</TAVG>
+    <PRCP>5.7</PRCP>
+  </row>
+  <row>
+    <DATE>1950-12-01 00:00:00</DATE>
+    <TAVG>-0.72</TAVG>
+    <PRCP>5.6</PRCP>
+  </row>
+  <row>
+    <DATE>1951-01-01 00:00:00</DATE>
+    <TAVG>-0.75</TAVG>
+    <PRCP>27.3</PRCP>
+  </row>
+  <row>
+    <DATE>1951-02-01 00:00:00</DATE>
+    <TAVG>1.54</TAVG>
+    <PRCP>46.9</PRCP>
+  </row>
+  <row>
+    <DATE>1951-03-01 00:00:00</DATE>
+    <TAVG>3.78</TAVG>
+    <PRCP>59.1</PRCP>
+  </row>
+  <row>
+    <DATE>1951-04-01 00:00:00</DATE>
+    <TAVG>10.69</TAVG>
+    <PRCP>73.0</PRCP>
+  </row>
+  <row>
+    <DATE>1951-05-01 00:00:00</DATE>
+    <TAVG>19.2</TAVG>
+    <PRCP>99.5</PRCP>
+  </row>
+  <row>
+    <DATE>1951-06-01 00:00:00</DATE>
+    <TAVG>20.91</TAVG>
+    <PRCP>213.9</PRCP>
+  </row>
+  <row>
+    <DATE>1951-07-01 00:00:00</DATE>
+    <TAVG>25.25</TAVG>
+    <PRCP>191.6</PRCP>
+  </row>
+  <row>
+    <DATE>1951-08-01 00:00:00</DATE>
+    <TAVG>25.62</TAVG>
+    <PRCP>174.7</PRCP>
+  </row>
+  <row>
+    <DATE>1951-09-01 00:00:00</DATE>
+    <TAVG>18.88</TAVG>
+    <PRCP>144.0</PRCP>
+  </row>
+  <row>
+    <DATE>1951-10-01 00:00:00</DATE>
+    <TAVG>14.19</TAVG>
+    <PRCP>101.5</PRCP>
+  </row>
+  <row>
+    <DATE>1951-11-01 00:00:00</DATE>
+    <TAVG>4.28</TAVG>
+    <PRCP>25.5</PRCP>
+  </row>
+  <row>
+    <DATE>1951-12-01 00:00:00</DATE>
+    <TAVG>-0.72</TAVG>
+    <PRCP>17.8</PRCP>
+  </row>
+  <row>
+    <DATE>1952-01-01 00:00:00</DATE>
+    <TAVG>1.03</TAVG>
+    <PRCP>14.6</PRCP>
+  </row>
+  <row>
+    <DATE>1952-02-01 00:00:00</DATE>
+    <TAVG>4.1</TAVG>
+    <PRCP>29.4</PRCP>
+  </row>
+  <row>
+    <DATE>1952-03-01 00:00:00</DATE>
+    <TAVG>4.22</TAVG>
+    <PRCP>102.9</PRCP>
+  </row>
+  <row>
+    <DATE>1952-04-01 00:00:00</DATE>
+    <TAVG>12.53</TAVG>
+    <PRCP>108.4</PRCP>
+  </row>
+  <row>
+    <DATE>1952-05-01 00:00:00</DATE>
+    <TAVG>18.81</TAVG>
+    <PRCP>104.1</PRCP>
+  </row>
+  <row>
+    <DATE>1952-06-01 00:00:00</DATE>
+    <TAVG>28.7</TAVG>
+    <PRCP>93.0</PRCP>
+  </row>
+  <row>
+    <DATE>1952-07-01 00:00:00</DATE>
+    <TAVG>26.9</TAVG>
+    <PRCP>120.1</PRCP>
+  </row>
+  <row>
+    <DATE>1952-08-01 00:00:00</DATE>
+    <TAVG>25.18</TAVG>
+    <PRCP>165.5</PRCP>
+  </row>
+  <row>
+    <DATE>1952-09-01 00:00:00</DATE>
+    <TAVG>22.27</TAVG>
+    <PRCP>53.9</PRCP>
+  </row>
+  <row>
+    <DATE>1952-10-01 00:00:00</DATE>
+    <TAVG>12.99</TAVG>
+    <PRCP>4.3</PRCP>
+  </row>
+  <row>
+    <DATE>1952-11-01 00:00:00</DATE>
+    <TAVG>7.02</TAVG>
+    <PRCP>56.4</PRCP>
+  </row>
+  <row>
+    <DATE>1952-12-01 00:00:00</DATE>
+    <TAVG>1.14</TAVG>
+    <PRCP>27.3</PRCP>
+  </row>
+  <row>
+    <DATE>1953-01-01 00:00:00</DATE>
+    <TAVG>1.35</TAVG>
+    <PRCP>4.8</PRCP>
+  </row>
+  <row>
+    <DATE>1953-02-01 00:00:00</DATE>
+    <TAVG>4.63</TAVG>
+    <PRCP>38.5</PRCP>
+  </row>
+  <row>
+    <DATE>1953-03-01 00:00:00</DATE>
+    <TAVG>7.83</TAVG>
+    <PRCP>97.6</PRCP>
+  </row>
+  <row>
+    <DATE>1953-04-01 00:00:00</DATE>
+    <TAVG>10.49</TAVG>
+    <PRCP>83.8</PRCP>
+  </row>
+  <row>
+    <DATE>1953-05-01 00:00:00</DATE>
+    <TAVG>18.01</TAVG>
+    <PRCP>75.7</PRCP>
+  </row>
+  <row>
+    <DATE>1953-06-01 00:00:00</DATE>
+    <TAVG>28.08</TAVG>
+    <PRCP>37.7</PRCP>
+  </row>
+  <row>
+    <DATE>1953-07-01 00:00:00</DATE>
+    <TAVG>27.31</TAVG>
+    <PRCP>24.5</PRCP>
+  </row>
+  <row>
+    <DATE>1953-08-01 00:00:00</DATE>
+    <TAVG>26.65</TAVG>
+    <PRCP>14.0</PRCP>
+  </row>
+  <row>
+    <DATE>1953-09-01 00:00:00</DATE>
+    <TAVG>23.36</TAVG>
+    <PRCP>39.7</PRCP>
+  </row>
+  <row>
+    <DATE>1953-10-01 00:00:00</DATE>
+    <TAVG>17.46</TAVG>
+    <PRCP>41.8</PRCP>
+  </row>
+  <row>
+    <DATE>1953-11-01 00:00:00</DATE>
+    <TAVG>8.51</TAVG>
+    <PRCP>27.9</PRCP>
+  </row>
+  <row>
+    <DATE>1953-12-01 00:00:00</DATE>
+    <TAVG>2.26</TAVG>
+    <PRCP>46.6</PRCP>
+  </row>
+  <row>
+    <DATE>1954-01-01 00:00:00</DATE>
+    <TAVG>-1.53</TAVG>
+    <PRCP>1.3</PRCP>
+  </row>
+  <row>
+    <DATE>1954-02-01 00:00:00</DATE>
+    <TAVG>7.43</TAVG>
+    <PRCP>44.4</PRCP>
+  </row>
+  <row>
+    <DATE>1954-03-01 00:00:00</DATE>
+    <TAVG>5.35</TAVG>
+    <PRCP>41.2</PRCP>
+  </row>
+  <row>
+    <DATE>1954-04-01 00:00:00</DATE>
+    <TAVG>15.95</TAVG>
+    <PRCP>114.6</PRCP>
+  </row>
+  <row>
+    <DATE>1954-05-01 00:00:00</DATE>
+    <TAVG>16.51</TAVG>
+    <PRCP>90.8</PRCP>
+  </row>
+  <row>
+    <DATE>1954-06-01 00:00:00</DATE>
+    <TAVG>26.24</TAVG>
+    <PRCP>92.6</PRCP>
+  </row>
+  <row>
+    <DATE>1954-07-01 00:00:00</DATE>
+    <TAVG>30.6</TAVG>
+    <PRCP>23.9</PRCP>
+  </row>
+  <row>
+    <DATE>1954-08-01 00:00:00</DATE>
+    <TAVG>27.46</TAVG>
+    <PRCP>127.3</PRCP>
+  </row>
+  <row>
+    <DATE>1954-09-01 00:00:00</DATE>
+    <TAVG>24.71</TAVG>
+    <PRCP>15.9</PRCP>
+  </row>
+  <row>
+    <DATE>1954-10-01 00:00:00</DATE>
+    <TAVG>15.22</TAVG>
+    <PRCP>129.6</PRCP>
+  </row>
+  <row>
+    <DATE>1954-11-01 00:00:00</DATE>
+    <TAVG>9.36</TAVG>
+    <PRCP>1.0</PRCP>
+  </row>
+  <row>
+    <DATE>1954-12-01 00:00:00</DATE>
+    <TAVG>2.71</TAVG>
+    <PRCP>17.0</PRCP>
+  </row>
+  <row>
+    <DATE>1955-01-01 00:00:00</DATE>
+    <TAVG>0.25</TAVG>
+    <PRCP>55.7</PRCP>
+  </row>
+  <row>
+    <DATE>1955-02-01 00:00:00</DATE>
+    <TAVG>-0.31</TAVG>
+    <PRCP>83.1</PRCP>
+  </row>
+  <row>
+    <DATE>1955-03-01 00:00:00</DATE>
+    <TAVG>6.49</TAVG>
+    <PRCP>18.1</PRCP>
+  </row>
+  <row>
+    <DATE>1955-04-01 00:00:00</DATE>
+    <TAVG>17.36</TAVG>
+    <PRCP>40.7</PRCP>
+  </row>
+  <row>
+    <DATE>1955-05-01 00:00:00</DATE>
+    <TAVG>19.78</TAVG>
+    <PRCP>189.1</PRCP>
+  </row>
+  <row>
+    <DATE>1955-06-01 00:00:00</DATE>
+    <TAVG>21.83</TAVG>
+    <PRCP>119.7</PRCP>
+  </row>
+  <row>
+    <DATE>1955-07-01 00:00:00</DATE>
+    <TAVG>29.68</TAVG>
+    <PRCP>23.6</PRCP>
+  </row>
+  <row>
+    <DATE>1955-08-01 00:00:00</DATE>
+    <TAVG>27.15</TAVG>
+    <PRCP>83.0</PRCP>
+  </row>
+  <row>
+    <DATE>1955-09-01 00:00:00</DATE>
+    <TAVG>23.07</TAVG>
+    <PRCP>86.7</PRCP>
+  </row>
+  <row>
+    <DATE>1955-10-01 00:00:00</DATE>
+    <TAVG>15.54</TAVG>
+    <PRCP>70.6</PRCP>
+  </row>
+  <row>
+    <DATE>1955-11-01 00:00:00</DATE>
+    <TAVG>4.46</TAVG>
+    <PRCP>1.3</PRCP>
+  </row>
+  <row>
+    <DATE>1955-12-01 00:00:00</DATE>
+    <TAVG>-0.1</TAVG>
+    <PRCP>7.7</PRCP>
+  </row>
+  <row>
+    <DATE>1956-01-01 00:00:00</DATE>
+    <TAVG>-2.29</TAVG>
+    <PRCP>17.1</PRCP>
+  </row>
+  <row>
+    <DATE>1956-02-01 00:00:00</DATE>
+    <TAVG>1.35</TAVG>
+    <PRCP>34.3</PRCP>
+  </row>
+  <row>
+    <DATE>1956-03-01 00:00:00</DATE>
+    <TAVG>7.32</TAVG>
+    <PRCP>13.7</PRCP>
+  </row>
+  <row>
+    <DATE>1956-04-01 00:00:00</DATE>
+    <TAVG>11.96</TAVG>
+    <PRCP>70.5</PRCP>
+  </row>
+  <row>
+    <DATE>1956-05-01 00:00:00</DATE>
+    <TAVG>20.94</TAVG>
+    <PRCP>110.8</PRCP>
+  </row>
+  <row>
+    <DATE>1956-06-01 00:00:00</DATE>
+    <TAVG>25.43</TAVG>
+    <PRCP>91.7</PRCP>
+  </row>
+  <row>
+    <DATE>1956-07-01 00:00:00</DATE>
+    <TAVG>27.1</TAVG>
+    <PRCP>116.5</PRCP>
+  </row>
+  <row>
+    <DATE>1956-08-01 00:00:00</DATE>
+    <TAVG>27.43</TAVG>
+    <PRCP>83.6</PRCP>
+  </row>
+  <row>
+    <DATE>1956-09-01 00:00:00</DATE>
+    <TAVG>23.32</TAVG>
+    <PRCP>5.6</PRCP>
+  </row>
+  <row>
+    <DATE>1956-10-01 00:00:00</DATE>
+    <TAVG>18.94</TAVG>
+    <PRCP>19.1</PRCP>
+  </row>
+  <row>
+    <DATE>1956-11-01 00:00:00</DATE>
+    <TAVG>6.73</TAVG>
+    <PRCP>55.4</PRCP>
+  </row>
+  <row>
+    <DATE>1956-12-01 00:00:00</DATE>
+    <TAVG>2.64</TAVG>
+    <PRCP>40.7</PRCP>
+  </row>
+  <row>
+    <DATE>1957-01-01 00:00:00</DATE>
+    <TAVG>-3.57</TAVG>
+    <PRCP>33.3</PRCP>
+  </row>
+  <row>
+    <DATE>1957-02-01 00:00:00</DATE>
+    <TAVG>3.93</TAVG>
+    <PRCP>9.2</PRCP>
+  </row>
+  <row>
+    <DATE>1957-03-01 00:00:00</DATE>
+    <TAVG>6.55</TAVG>
+    <PRCP>78.0</PRCP>
+  </row>
+  <row>
+    <DATE>1957-04-01 00:00:00</DATE>
+    <TAVG>12.56</TAVG>
+    <PRCP>94.4</PRCP>
+  </row>
+  <row>
+    <DATE>1957-05-01 00:00:00</DATE>
+    <TAVG>18.65</TAVG>
+    <PRCP>128.1</PRCP>
+  </row>
+  <row>
+    <DATE>1957-06-01 00:00:00</DATE>
+    <TAVG>23.93</TAVG>
+    <PRCP>180.7</PRCP>
+  </row>
+  <row>
+    <DATE>1957-07-01 00:00:00</DATE>
+    <TAVG>28.47</TAVG>
+    <PRCP>57.7</PRCP>
+  </row>
+  <row>
+    <DATE>1957-08-01 00:00:00</DATE>
+    <TAVG>27.31</TAVG>
+    <PRCP>10.6</PRCP>
+  </row>
+  <row>
+    <DATE>1957-09-01 00:00:00</DATE>
+    <TAVG>19.97</TAVG>
+    <PRCP>133.6</PRCP>
+  </row>
+  <row>
+    <DATE>1957-10-01 00:00:00</DATE>
+    <TAVG>12.97</TAVG>
+    <PRCP>100.9</PRCP>
+  </row>
+  <row>
+    <DATE>1957-11-01 00:00:00</DATE>
+    <TAVG>6.16</TAVG>
+    <PRCP>50.3</PRCP>
+  </row>
+  <row>
+    <DATE>1957-12-01 00:00:00</DATE>
+    <TAVG>4.13</TAVG>
+    <PRCP>56.3</PRCP>
+  </row>
+  <row>
+    <DATE>1958-01-01 00:00:00</DATE>
+    <TAVG>-0.06</TAVG>
+    <PRCP>64.5</PRCP>
+  </row>
+  <row>
+    <DATE>1958-02-01 00:00:00</DATE>
+    <TAVG>-2.64</TAVG>
+    <PRCP>33.6</PRCP>
+  </row>
+  <row>
+    <DATE>1958-03-01 00:00:00</DATE>
+    <TAVG>3.35</TAVG>
+    <PRCP>69.9</PRCP>
+  </row>
+  <row>
+    <DATE>1958-04-01 00:00:00</DATE>
+    <TAVG>13.07</TAVG>
+    <PRCP>70.7</PRCP>
+  </row>
+  <row>
+    <DATE>1958-05-01 00:00:00</DATE>
+    <TAVG>20.11</TAVG>
+    <PRCP>69.5</PRCP>
+  </row>
+  <row>
+    <DATE>1958-06-01 00:00:00</DATE>
+    <TAVG>23.12</TAVG>
+    <PRCP>123.1</PRCP>
+  </row>
+  <row>
+    <DATE>1958-07-01 00:00:00</DATE>
+    <TAVG>25.01</TAVG>
+    <PRCP>271.8</PRCP>
+  </row>
+  <row>
+    <DATE>1958-08-01 00:00:00</DATE>
+    <TAVG>26.31</TAVG>
+    <PRCP>31.2</PRCP>
+  </row>
+  <row>
+    <DATE>1958-09-01 00:00:00</DATE>
+    <TAVG>21.9</TAVG>
+    <PRCP>181.9</PRCP>
+  </row>
+  <row>
+    <DATE>1958-10-01 00:00:00</DATE>
+    <TAVG>16.47</TAVG>
+    <PRCP>35.1</PRCP>
+  </row>
+  <row>
+    <DATE>1958-11-01 00:00:00</DATE>
+    <TAVG>9.94</TAVG>
+    <PRCP>47.3</PRCP>
+  </row>
+  <row>
+    <DATE>1958-12-01 00:00:00</DATE>
+    <TAVG>-0.01</TAVG>
+    <PRCP>14.2</PRCP>
+  </row>
+  <row>
+    <DATE>1959-01-01 00:00:00</DATE>
+    <TAVG>-3.02</TAVG>
+    <PRCP>44.2</PRCP>
+  </row>
+  <row>
+    <DATE>1959-02-01 00:00:00</DATE>
+    <TAVG>1.18</TAVG>
+    <PRCP>21.6</PRCP>
+  </row>
+  <row>
+    <DATE>1959-03-01 00:00:00</DATE>
+    <TAVG>7.99</TAVG>
+    <PRCP>109.0</PRCP>
+  </row>
+  <row>
+    <DATE>1959-04-01 00:00:00</DATE>
+    <TAVG>13.57</TAVG>
+    <PRCP>74.5</PRCP>
+  </row>
+  <row>
+    <DATE>1959-05-01 00:00:00</DATE>
+    <TAVG>20.55</TAVG>
+    <PRCP>130.8</PRCP>
+  </row>
+  <row>
+    <DATE>1959-06-01 00:00:00</DATE>
+    <TAVG>25.08</TAVG>
+    <PRCP>35.1</PRCP>
+  </row>
+  <row>
+    <DATE>1959-07-01 00:00:00</DATE>
+    <TAVG>25.51</TAVG>
+    <PRCP>134.5</PRCP>
+  </row>
+  <row>
+    <DATE>1959-08-01 00:00:00</DATE>
+    <TAVG>27.88</TAVG>
+    <PRCP>151.1</PRCP>
+  </row>
+  <row>
+    <DATE>1959-09-01 00:00:00</DATE>
+    <TAVG>21.56</TAVG>
+    <PRCP>68.0</PRCP>
+  </row>
+  <row>
+    <DATE>1959-10-01 00:00:00</DATE>
+    <TAVG>13.07</TAVG>
+    <PRCP>159.3</PRCP>
+  </row>
+  <row>
+    <DATE>1959-11-01 00:00:00</DATE>
+    <TAVG>3.84</TAVG>
+    <PRCP>4.8</PRCP>
+  </row>
+  <row>
+    <DATE>1959-12-01 00:00:00</DATE>
+    <TAVG>4.63</TAVG>
+    <PRCP>45.3</PRCP>
+  </row>
+  <row>
+    <DATE>1960-01-01 00:00:00</DATE>
+    <TAVG>-0.62</TAVG>
+    <PRCP>36.3</PRCP>
+  </row>
+  <row>
+    <DATE>1960-02-01 00:00:00</DATE>
+    <TAVG>-2.04</TAVG>
+    <PRCP>66.6</PRCP>
+  </row>
+  <row>
+    <DATE>1960-03-01 00:00:00</DATE>
+    <TAVG>-0.9</TAVG>
+    <PRCP>79.1</PRCP>
+  </row>
+  <row>
+    <DATE>1960-04-01 00:00:00</DATE>
+    <TAVG>14.54</TAVG>
+    <PRCP>96.2</PRCP>
+  </row>
+  <row>
+    <DATE>1960-05-01 00:00:00</DATE>
+    <TAVG>18.66</TAVG>
+    <PRCP>71.9</PRCP>
+  </row>
+  <row>
+    <DATE>1960-06-01 00:00:00</DATE>
+    <TAVG>23.54</TAVG>
+    <PRCP>113.9</PRCP>
+  </row>
+  <row>
+    <DATE>1960-07-01 00:00:00</DATE>
+    <TAVG>25.4</TAVG>
+    <PRCP>63.3</PRCP>
+  </row>
+  <row>
+    <DATE>1960-08-01 00:00:00</DATE>
+    <TAVG>26.76</TAVG>
+    <PRCP>79.3</PRCP>
+  </row>
+  <row>
+    <DATE>1960-09-01 00:00:00</DATE>
+    <TAVG>23.27</TAVG>
+    <PRCP>10.2</PRCP>
+  </row>
+  <row>
+    <DATE>1960-10-01 00:00:00</DATE>
+    <TAVG>16.43</TAVG>
+    <PRCP>150.2</PRCP>
+  </row>
+  <row>
+    <DATE>1960-11-01 00:00:00</DATE>
+    <TAVG>7.96</TAVG>
+    <PRCP>8.5</PRCP>
+  </row>
+  <row>
+    <DATE>1960-12-01 00:00:00</DATE>
+    <TAVG>-0.51</TAVG>
+    <PRCP>54.0</PRCP>
+  </row>
+  <row>
+    <DATE>1961-01-01 00:00:00</DATE>
+    <TAVG>-0.16</TAVG>
+    <PRCP>1.3</PRCP>
+  </row>
+  <row>
+    <DATE>1961-02-01 00:00:00</DATE>
+    <TAVG>3.66</TAVG>
+    <PRCP>61.9</PRCP>
+  </row>
+  <row>
+    <DATE>1961-03-01 00:00:00</DATE>
+    <TAVG>6.57</TAVG>
+    <PRCP>169.2</PRCP>
+  </row>
+  <row>
+    <DATE>1961-04-01 00:00:00</DATE>
+    <TAVG>10.04</TAVG>
+    <PRCP>106.5</PRCP>
+  </row>
+  <row>
+    <DATE>1961-05-01 00:00:00</DATE>
+    <TAVG>15.85</TAVG>
+    <PRCP>131.9</PRCP>
+  </row>
+  <row>
+    <DATE>1961-06-01 00:00:00</DATE>
+    <TAVG>22.39</TAVG>
+    <PRCP>166.5</PRCP>
+  </row>
+  <row>
+    <DATE>1961-07-01 00:00:00</DATE>
+    <TAVG>25.17</TAVG>
+    <PRCP>229.1</PRCP>
+  </row>
+  <row>
+    <DATE>1961-08-01 00:00:00</DATE>
+    <TAVG>24.1</TAVG>
+    <PRCP>96.8</PRCP>
+  </row>
+  <row>
+    <DATE>1961-09-01 00:00:00</DATE>
+    <TAVG>18.9</TAVG>
+    <PRCP>294.2</PRCP>
+  </row>
+  <row>
+    <DATE>1961-10-01 00:00:00</DATE>
+    <TAVG>15.02</TAVG>
+    <PRCP>82.3</PRCP>
+  </row>
+  <row>
+    <DATE>1961-11-01 00:00:00</DATE>
+    <TAVG>6.57</TAVG>
+    <PRCP>140.9</PRCP>
+  </row>
+  <row>
+    <DATE>1961-12-01 00:00:00</DATE>
+    <TAVG>-1.96</TAVG>
+    <PRCP>49.9</PRCP>
+  </row>
+  <row>
+    <DATE>1962-01-01 00:00:00</DATE>
+    <TAVG>-4.74</TAVG>
+    <PRCP>74.9</PRCP>
+  </row>
+  <row>
+    <DATE>1962-02-01 00:00:00</DATE>
+    <TAVG>1.63</TAVG>
+    <PRCP>51.4</PRCP>
+  </row>
+  <row>
+    <DATE>1962-03-01 00:00:00</DATE>
+    <TAVG>4.49</TAVG>
+    <PRCP>49.5</PRCP>
+  </row>
+  <row>
+    <DATE>1962-04-01 00:00:00</DATE>
+    <TAVG>12.47</TAVG>
+    <PRCP>28.0</PRCP>
+  </row>
+  <row>
+    <DATE>1962-05-01 00:00:00</DATE>
+    <TAVG>23.74</TAVG>
+    <PRCP>134.4</PRCP>
+  </row>
+  <row>
+    <DATE>1962-06-01 00:00:00</DATE>
+    <TAVG>23.72</TAVG>
+    <PRCP>74.3</PRCP>
+  </row>
+  <row>
+    <DATE>1962-07-01 00:00:00</DATE>
+    <TAVG>25.55</TAVG>
+    <PRCP>156.7</PRCP>
+  </row>
+  <row>
+    <DATE>1962-08-01 00:00:00</DATE>
+    <TAVG>26.28</TAVG>
+    <PRCP>78.9</PRCP>
+  </row>
+  <row>
+    <DATE>1962-09-01 00:00:00</DATE>
+    <TAVG>19.35</TAVG>
+    <PRCP>186.1</PRCP>
+  </row>
+  <row>
+    <DATE>1962-10-01 00:00:00</DATE>
+    <TAVG>16.56</TAVG>
+    <PRCP>48.0</PRCP>
+  </row>
+  <row>
+    <DATE>1962-11-01 00:00:00</DATE>
+    <TAVG>8.01</TAVG>
+    <PRCP>31.5</PRCP>
+  </row>
+  <row>
+    <DATE>1962-12-01 00:00:00</DATE>
+    <TAVG>0.41</TAVG>
+    <PRCP>26.5</PRCP>
+  </row>
+  <row>
+    <DATE>1963-01-01 00:00:00</DATE>
+    <TAVG>-6.79</TAVG>
+    <PRCP>15.0</PRCP>
+  </row>
+  <row>
+    <DATE>1963-02-01 00:00:00</DATE>
+    <TAVG>0.17</TAVG>
+    <PRCP>10.5</PRCP>
+  </row>
+  <row>
+    <DATE>1963-03-01 00:00:00</DATE>
+    <TAVG>9.54</TAVG>
+    <PRCP>49.3</PRCP>
+  </row>
+  <row>
+    <DATE>1963-04-01 00:00:00</DATE>
+    <TAVG>15.07</TAVG>
+    <PRCP>20.4</PRCP>
+  </row>
+  <row>
+    <DATE>1963-05-01 00:00:00</DATE>
+    <TAVG>19.71</TAVG>
+    <PRCP>105.8</PRCP>
+  </row>
+  <row>
+    <DATE>1963-06-01 00:00:00</DATE>
+    <TAVG>26.24</TAVG>
+    <PRCP>81.5</PRCP>
+  </row>
+  <row>
+    <DATE>1963-07-01 00:00:00</DATE>
+    <TAVG>27.57</TAVG>
+    <PRCP>111.9</PRCP>
+  </row>
+  <row>
+    <DATE>1963-08-01 00:00:00</DATE>
+    <TAVG>26.11</TAVG>
+    <PRCP>103.7</PRCP>
+  </row>
+  <row>
+    <DATE>1963-09-01 00:00:00</DATE>
+    <TAVG>23.38</TAVG>
+    <PRCP>36.6</PRCP>
+  </row>
+  <row>
+    <DATE>1963-10-01 00:00:00</DATE>
+    <TAVG>22.23</TAVG>
+    <PRCP>23.9</PRCP>
+  </row>
+  <row>
+    <DATE>1963-11-01 00:00:00</DATE>
+    <TAVG>9.87</TAVG>
+    <PRCP>58.5</PRCP>
+  </row>
+  <row>
+    <DATE>1963-12-01 00:00:00</DATE>
+    <TAVG>-3.77</TAVG>
+    <PRCP>9.5</PRCP>
+  </row>
+  <row>
+    <DATE>1964-01-01 00:00:00</DATE>
+    <TAVG>2.86</TAVG>
+    <PRCP>30.6</PRCP>
+  </row>
+  <row>
+    <DATE>1964-02-01 00:00:00</DATE>
+    <TAVG>2.33</TAVG>
+    <PRCP>38.1</PRCP>
+  </row>
+  <row>
+    <DATE>1964-03-01 00:00:00</DATE>
+    <TAVG>5.42</TAVG>
+    <PRCP>81.4</PRCP>
+  </row>
+  <row>
+    <DATE>1964-04-01 00:00:00</DATE>
+    <TAVG>14.09</TAVG>
+    <PRCP>137.3</PRCP>
+  </row>
+  <row>
+    <DATE>1964-05-01 00:00:00</DATE>
+    <TAVG>21.18</TAVG>
+    <PRCP>139.7</PRCP>
+  </row>
+  <row>
+    <DATE>1964-06-01 00:00:00</DATE>
+    <TAVG>23.12</TAVG>
+    <PRCP>137.1</PRCP>
+  </row>
+  <row>
+    <DATE>1964-07-01 00:00:00</DATE>
+    <TAVG>28.03</TAVG>
+    <PRCP>74.6</PRCP>
+  </row>
+  <row>
+    <DATE>1964-08-01 00:00:00</DATE>
+    <TAVG>24.43</TAVG>
+    <PRCP>96.2</PRCP>
+  </row>
+  <row>
+    <DATE>1964-09-01 00:00:00</DATE>
+    <TAVG>20.76</TAVG>
+    <PRCP>78.1</PRCP>
+  </row>
+  <row>
+    <DATE>1964-10-01 00:00:00</DATE>
+    <TAVG>14.2</TAVG>
+    <PRCP>9.2</PRCP>
+  </row>
+  <row>
+    <DATE>1964-11-01 00:00:00</DATE>
+    <TAVG>9.9</TAVG>
+    <PRCP>120.2</PRCP>
+  </row>
+  <row>
+    <DATE>1964-12-01 00:00:00</DATE>
+    <TAVG>0.17</TAVG>
+    <PRCP>44.1</PRCP>
+  </row>
+  <row>
+    <DATE>1965-01-01 00:00:00</DATE>
+    <TAVG>-0.32</TAVG>
+    <PRCP>59.8</PRCP>
+  </row>
+  <row>
+    <DATE>1965-02-01 00:00:00</DATE>
+    <TAVG>0.14</TAVG>
+    <PRCP>45.9</PRCP>
+  </row>
+  <row>
+    <DATE>1965-03-01 00:00:00</DATE>
+    <TAVG>1.08</TAVG>
+    <PRCP>89.4</PRCP>
+  </row>
+  <row>
+    <DATE>1965-04-01 00:00:00</DATE>
+    <TAVG>14.69</TAVG>
+    <PRCP>56.1</PRCP>
+  </row>
+  <row>
+    <DATE>1965-05-01 00:00:00</DATE>
+    <TAVG>21.98</TAVG>
+    <PRCP>55.7</PRCP>
+  </row>
+  <row>
+    <DATE>1965-06-01 00:00:00</DATE>
+    <TAVG>23.64</TAVG>
+    <PRCP>190.6</PRCP>
+  </row>
+  <row>
+    <DATE>1965-07-01 00:00:00</DATE>
+    <TAVG>25.82</TAVG>
+    <PRCP>249.6</PRCP>
+  </row>
+  <row>
+    <DATE>1965-08-01 00:00:00</DATE>
+    <TAVG>25.08</TAVG>
+    <PRCP>159.4</PRCP>
+  </row>
+  <row>
+    <DATE>1965-09-01 00:00:00</DATE>
+    <TAVG>21.04</TAVG>
+    <PRCP>196.9</PRCP>
+  </row>
+  <row>
+    <DATE>1965-10-01 00:00:00</DATE>
+    <TAVG>15.8</TAVG>
+    <PRCP>46.5</PRCP>
+  </row>
+  <row>
+    <DATE>1965-11-01 00:00:00</DATE>
+    <TAVG>9.01</TAVG>
+    <PRCP>6.1</PRCP>
+  </row>
+  <row>
+    <DATE>1965-12-01 00:00:00</DATE>
+    <TAVG>6.63</TAVG>
+    <PRCP>57.2</PRCP>
+  </row>
+  <row>
+    <DATE>1966-01-01 00:00:00</DATE>
+    <TAVG>-2.27</TAVG>
+    <PRCP>5.4</PRCP>
+  </row>
+  <row>
+    <DATE>1966-02-01 00:00:00</DATE>
+    <TAVG>0.94</TAVG>
+    <PRCP>19.3</PRCP>
+  </row>
+  <row>
+    <DATE>1966-03-01 00:00:00</DATE>
+    <TAVG>9.45</TAVG>
+    <PRCP>47.9</PRCP>
+  </row>
+  <row>
+    <DATE>1966-04-01 00:00:00</DATE>
+    <TAVG>11.53</TAVG>
+    <PRCP>77.2</PRCP>
+  </row>
+  <row>
+    <DATE>1966-05-01 00:00:00</DATE>
+    <TAVG>18.64</TAVG>
+    <PRCP>63.0</PRCP>
+  </row>
+  <row>
+    <DATE>1966-06-01 00:00:00</DATE>
+    <TAVG>22.96</TAVG>
+    <PRCP>219.2</PRCP>
+  </row>
+  <row>
+    <DATE>1966-07-01 00:00:00</DATE>
+    <TAVG>28.51</TAVG>
+    <PRCP>22.8</PRCP>
+  </row>
+  <row>
+    <DATE>1966-08-01 00:00:00</DATE>
+    <TAVG>23.79</TAVG>
+    <PRCP>107.6</PRCP>
+  </row>
+  <row>
+    <DATE>1966-09-01 00:00:00</DATE>
+    <TAVG>20.41</TAVG>
+    <PRCP>67.9</PRCP>
+  </row>
+  <row>
+    <DATE>1966-10-01 00:00:00</DATE>
+    <TAVG>15.4</TAVG>
+    <PRCP>11.4</PRCP>
+  </row>
+  <row>
+    <DATE>1966-11-01 00:00:00</DATE>
+    <TAVG>9.51</TAVG>
+    <PRCP>26.6</PRCP>
+  </row>
+  <row>
+    <DATE>1966-12-01 00:00:00</DATE>
+    <TAVG>1.52</TAVG>
+    <PRCP>23.0</PRCP>
+  </row>
+  <row>
+    <DATE>1967-01-01 00:00:00</DATE>
+    <TAVG>1.08</TAVG>
+    <PRCP>53.2</PRCP>
+  </row>
+  <row>
+    <DATE>1967-02-01 00:00:00</DATE>
+    <TAVG>0.85</TAVG>
+    <PRCP>8.8</PRCP>
+  </row>
+  <row>
+    <DATE>1967-03-01 00:00:00</DATE>
+    <TAVG>8.76</TAVG>
+    <PRCP>72.4</PRCP>
+  </row>
+  <row>
+    <DATE>1967-04-01 00:00:00</DATE>
+    <TAVG>14.93</TAVG>
+    <PRCP>174.4</PRCP>
+  </row>
+  <row>
+    <DATE>1967-05-01 00:00:00</DATE>
+    <TAVG>16.47</TAVG>
+    <PRCP>153.6</PRCP>
+  </row>
+  <row>
+    <DATE>1967-06-01 00:00:00</DATE>
+    <TAVG>22.72</TAVG>
+    <PRCP>246.8</PRCP>
+  </row>
+  <row>
+    <DATE>1967-07-01 00:00:00</DATE>
+    <TAVG>24.74</TAVG>
+    <PRCP>45.9</PRCP>
+  </row>
+  <row>
+    <DATE>1967-08-01 00:00:00</DATE>
+    <TAVG>23.91</TAVG>
+    <PRCP>7.9</PRCP>
+  </row>
+  <row>
+    <DATE>1967-09-01 00:00:00</DATE>
+    <TAVG>19.93</TAVG>
+    <PRCP>200.0</PRCP>
+  </row>
+  <row>
+    <DATE>1967-10-01 00:00:00</DATE>
+    <TAVG>14.79</TAVG>
+    <PRCP>219.3</PRCP>
+  </row>
+  <row>
+    <DATE>1967-11-01 00:00:00</DATE>
+    <TAVG>6.88</TAVG>
+    <PRCP>11.5</PRCP>
+  </row>
+  <row>
+    <DATE>1967-12-01 00:00:00</DATE>
+    <TAVG>1.9</TAVG>
+    <PRCP>43.8</PRCP>
+  </row>
+  <row>
+    <DATE>1968-01-01 00:00:00</DATE>
+    <TAVG>-2.0</TAVG>
+    <PRCP>7.0</PRCP>
+  </row>
+  <row>
+    <DATE>1968-02-01 00:00:00</DATE>
+    <TAVG>0.17</TAVG>
+    <PRCP>30.6</PRCP>
+  </row>
+  <row>
+    <DATE>1968-03-01 00:00:00</DATE>
+    <TAVG>8.94</TAVG>
+    <PRCP>18.6</PRCP>
+  </row>
+  <row>
+    <DATE>1968-04-01 00:00:00</DATE>
+    <TAVG>13.91</TAVG>
+    <PRCP>99.4</PRCP>
+  </row>
+  <row>
+    <DATE>1968-05-01 00:00:00</DATE>
+    <TAVG>16.77</TAVG>
+    <PRCP>131.9</PRCP>
+  </row>
+  <row>
+    <DATE>1968-06-01 00:00:00</DATE>
+    <TAVG>25.32</TAVG>
+    <PRCP>59.2</PRCP>
+  </row>
+  <row>
+    <DATE>1968-07-01 00:00:00</DATE>
+    <TAVG>26.3</TAVG>
+    <PRCP>130.4</PRCP>
+  </row>
+  <row>
+    <DATE>1968-08-01 00:00:00</DATE>
+    <TAVG>25.45</TAVG>
+    <PRCP>109.9</PRCP>
+  </row>
+  <row>
+    <DATE>1968-09-01 00:00:00</DATE>
+    <TAVG>20.83</TAVG>
+    <PRCP>26.4</PRCP>
+  </row>
+  <row>
+    <DATE>1968-10-01 00:00:00</DATE>
+    <TAVG>15.34</TAVG>
+    <PRCP>89.5</PRCP>
+  </row>
+  <row>
+    <DATE>1968-11-01 00:00:00</DATE>
+    <TAVG>5.1</TAVG>
+    <PRCP>77.0</PRCP>
+  </row>
+  <row>
+    <DATE>1968-12-01 00:00:00</DATE>
+    <TAVG>-1.31</TAVG>
+    <PRCP>32.9</PRCP>
+  </row>
+  <row>
+    <DATE>1969-01-01 00:00:00</DATE>
+    <TAVG>-3.08</TAVG>
+    <PRCP>33.3</PRCP>
+  </row>
+  <row>
+    <DATE>1969-02-01 00:00:00</DATE>
+    <TAVG>1.19</TAVG>
+    <PRCP>12.6</PRCP>
+  </row>
+  <row>
+    <DATE>1969-03-01 00:00:00</DATE>
+    <TAVG>3.08</TAVG>
+    <PRCP>34.5</PRCP>
+  </row>
+  <row>
+    <DATE>1969-04-01 00:00:00</DATE>
+    <TAVG>13.49</TAVG>
+    <PRCP>120.9</PRCP>
+  </row>
+  <row>
+    <DATE>1969-05-01 00:00:00</DATE>
+    <TAVG>18.91</TAVG>
+    <PRCP>98.8</PRCP>
+  </row>
+  <row>
+    <DATE>1969-06-01 00:00:00</DATE>
+    <TAVG>21.18</TAVG>
+    <PRCP>268.7</PRCP>
+  </row>
+  <row>
+    <DATE>1969-07-01 00:00:00</DATE>
+    <TAVG>27.41</TAVG>
+    <PRCP>261.2</PRCP>
+  </row>
+  <row>
+    <DATE>1969-08-01 00:00:00</DATE>
+    <TAVG>26.04</TAVG>
+    <PRCP>221.1</PRCP>
+  </row>
+  <row>
+    <DATE>1969-09-01 00:00:00</DATE>
+    <TAVG>22.09</TAVG>
+    <PRCP>93.3</PRCP>
+  </row>
+  <row>
+    <DATE>1969-10-01 00:00:00</DATE>
+    <TAVG>13.17</TAVG>
+    <PRCP>165.3</PRCP>
+  </row>
+  <row>
+    <DATE>1969-11-01 00:00:00</DATE>
+    <TAVG>7.83</TAVG>
+    <PRCP>2.1</PRCP>
+  </row>
+  <row>
+    <DATE>1969-12-01 00:00:00</DATE>
+    <TAVG>0.58</TAVG>
+    <PRCP>18.5</PRCP>
+  </row>
+  <row>
+    <DATE>1970-01-01 00:00:00</DATE>
+    <TAVG>-3.29</TAVG>
+    <PRCP>5.4</PRCP>
+  </row>
+  <row>
+    <DATE>1970-02-01 00:00:00</DATE>
+    <TAVG>2.6</TAVG>
+    <PRCP>11.7</PRCP>
+  </row>
+  <row>
+    <DATE>1970-03-01 00:00:00</DATE>
+    <TAVG>5.55</TAVG>
+    <PRCP>26.1</PRCP>
+  </row>
+  <row>
+    <DATE>1970-04-01 00:00:00</DATE>
+    <TAVG>14.12</TAVG>
+    <PRCP>100.4</PRCP>
+  </row>
+  <row>
+    <DATE>1970-05-01 00:00:00</DATE>
+    <TAVG>22.25</TAVG>
+    <PRCP>120.6</PRCP>
+  </row>
+  <row>
+    <DATE>1970-06-01 00:00:00</DATE>
+    <TAVG>23.62</TAVG>
+    <PRCP>135.1</PRCP>
+  </row>
+  <row>
+    <DATE>1970-07-01 00:00:00</DATE>
+    <TAVG>27.09</TAVG>
+    <PRCP>15.7</PRCP>
+  </row>
+  <row>
+    <DATE>1970-08-01 00:00:00</DATE>
+    <TAVG>27.97</TAVG>
+    <PRCP>102.2</PRCP>
+  </row>
+  <row>
+    <DATE>1970-09-01 00:00:00</DATE>
+    <TAVG>22.0</TAVG>
+    <PRCP>273.9</PRCP>
+  </row>
+  <row>
+    <DATE>1970-10-01 00:00:00</DATE>
+    <TAVG>14.76</TAVG>
+    <PRCP>58.5</PRCP>
+  </row>
+  <row>
+    <DATE>1970-11-01 00:00:00</DATE>
+    <TAVG>6.89</TAVG>
+    <PRCP>23.9</PRCP>
+  </row>
+  <row>
+    <DATE>1970-12-01 00:00:00</DATE>
+    <TAVG>3.82</TAVG>
+    <PRCP>44.3</PRCP>
+  </row>
+  <row>
+    <DATE>1971-01-01 00:00:00</DATE>
+    <TAVG>-2.42</TAVG>
+    <PRCP>37.6</PRCP>
+  </row>
+  <row>
+    <DATE>1971-02-01 00:00:00</DATE>
+    <TAVG>-0.28</TAVG>
+    <PRCP>22.6</PRCP>
+  </row>
+  <row>
+    <DATE>1971-03-01 00:00:00</DATE>
+    <TAVG>6.47</TAVG>
+    <PRCP>22.1</PRCP>
+  </row>
+  <row>
+    <DATE>1971-04-01 00:00:00</DATE>
+    <TAVG>15.4</TAVG>
+    <PRCP>32.7</PRCP>
+  </row>
+  <row>
+    <DATE>1971-05-01 00:00:00</DATE>
+    <TAVG>17.99</TAVG>
+    <PRCP>76.9</PRCP>
+  </row>
+  <row>
+    <DATE>1971-06-01 00:00:00</DATE>
+    <TAVG>26.29</TAVG>
+    <PRCP>81.4</PRCP>
+  </row>
+  <row>
+    <DATE>1971-07-01 00:00:00</DATE>
+    <TAVG>24.66</TAVG>
+    <PRCP>79.5</PRCP>
+  </row>
+  <row>
+    <DATE>1971-08-01 00:00:00</DATE>
+    <TAVG>25.73</TAVG>
+    <PRCP>26.4</PRCP>
+  </row>
+  <row>
+    <DATE>1971-09-01 00:00:00</DATE>
+    <TAVG>22.54</TAVG>
+    <PRCP>68.6</PRCP>
+  </row>
+  <row>
+    <DATE>1971-10-01 00:00:00</DATE>
+    <TAVG>17.79</TAVG>
+    <PRCP>88.2</PRCP>
+  </row>
+  <row>
+    <DATE>1971-11-01 00:00:00</DATE>
+    <TAVG>8.29</TAVG>
+    <PRCP>42.8</PRCP>
+  </row>
+  <row>
+    <DATE>1971-12-01 00:00:00</DATE>
+    <TAVG>2.73</TAVG>
+    <PRCP>96.9</PRCP>
+  </row>
+  <row>
+    <DATE>1972-01-01 00:00:00</DATE>
+    <TAVG>-2.62</TAVG>
+    <PRCP>14.2</PRCP>
+  </row>
+  <row>
+    <DATE>1972-02-01 00:00:00</DATE>
+    <TAVG>0.64</TAVG>
+    <PRCP>10.5</PRCP>
+  </row>
+  <row>
+    <DATE>1972-03-01 00:00:00</DATE>
+    <TAVG>8.38</TAVG>
+    <PRCP>54.2</PRCP>
+  </row>
+  <row>
+    <DATE>1972-04-01 00:00:00</DATE>
+    <TAVG>14.08</TAVG>
+    <PRCP>101.2</PRCP>
+  </row>
+  <row>
+    <DATE>1972-05-01 00:00:00</DATE>
+    <TAVG>19.49</TAVG>
+    <PRCP>55.5</PRCP>
+  </row>
+  <row>
+    <DATE>1972-06-01 00:00:00</DATE>
+    <TAVG>24.94</TAVG>
+    <PRCP>68.8</PRCP>
+  </row>
+  <row>
+    <DATE>1972-07-01 00:00:00</DATE>
+    <TAVG>25.07</TAVG>
+    <PRCP>87.2</PRCP>
+  </row>
+  <row>
+    <DATE>1972-08-01 00:00:00</DATE>
+    <TAVG>25.16</TAVG>
+    <PRCP>73.6</PRCP>
+  </row>
+  <row>
+    <DATE>1972-09-01 00:00:00</DATE>
+    <TAVG>21.57</TAVG>
+    <PRCP>68.4</PRCP>
+  </row>
+  <row>
+    <DATE>1972-10-01 00:00:00</DATE>
+    <TAVG>12.15</TAVG>
+    <PRCP>58.3</PRCP>
+  </row>
+  <row>
+    <DATE>1979-01-01 00:00:00</DATE>
+    <TAVG>-8.43</TAVG>
+    <PRCP>50.2</PRCP>
+  </row>
+  <row>
+    <DATE>1979-02-01 00:00:00</DATE>
+    <TAVG>-4.27</TAVG>
+    <PRCP>19.3</PRCP>
+  </row>
+  <row>
+    <DATE>1979-03-01 00:00:00</DATE>
+    <TAVG>7.27</TAVG>
+    <PRCP>85.2</PRCP>
+  </row>
+  <row>
+    <DATE>1979-04-01 00:00:00</DATE>
+    <TAVG>12.34</TAVG>
+    <PRCP>72.8</PRCP>
+  </row>
+  <row>
+    <DATE>1979-05-01 00:00:00</DATE>
+    <TAVG>19.0</TAVG>
+    <PRCP>69.3</PRCP>
+  </row>
+  <row>
+    <DATE>1979-06-01 00:00:00</DATE>
+    <TAVG>24.34</TAVG>
+    <PRCP>199.1</PRCP>
+  </row>
+  <row>
+    <DATE>1979-07-01 00:00:00</DATE>
+    <TAVG>26.21</TAVG>
+    <PRCP>93.4</PRCP>
+  </row>
+  <row>
+    <DATE>1979-08-01 00:00:00</DATE>
+    <TAVG>26.55</TAVG>
+    <PRCP>55.3</PRCP>
+  </row>
+  <row>
+    <DATE>1979-09-01 00:00:00</DATE>
+    <TAVG>22.6</TAVG>
+    <PRCP>53.4</PRCP>
+  </row>
+  <row>
+    <DATE>1979-10-01 00:00:00</DATE>
+    <TAVG>16.25</TAVG>
+    <PRCP>53.9</PRCP>
+  </row>
+  <row>
+    <DATE>1979-11-01 00:00:00</DATE>
+    <TAVG>6.82</TAVG>
+    <PRCP>53.0</PRCP>
+  </row>
+  <row>
+    <DATE>1979-12-01 00:00:00</DATE>
+    <TAVG>3.88</TAVG>
+    <PRCP>0.8</PRCP>
+  </row>
+  <row>
+    <DATE>1980-01-01 00:00:00</DATE>
+    <TAVG>0.5</TAVG>
+    <PRCP>33.9</PRCP>
+  </row>
+  <row>
+    <DATE>1980-02-01 00:00:00</DATE>
+    <TAVG>-1.35</TAVG>
+    <PRCP>22.1</PRCP>
+  </row>
+  <row>
+    <DATE>1980-03-01 00:00:00</DATE>
+    <TAVG>5.93</TAVG>
+    <PRCP>80.0</PRCP>
+  </row>
+  <row>
+    <DATE>1980-04-01 00:00:00</DATE>
+    <TAVG>14.64</TAVG>
+    <PRCP>13.8</PRCP>
+  </row>
+  <row>
+    <DATE>1980-05-01 00:00:00</DATE>
+    <TAVG>20.29</TAVG>
+    <PRCP>78.6</PRCP>
+  </row>
+  <row>
+    <DATE>1980-06-01 00:00:00</DATE>
+    <TAVG>26.66</TAVG>
+    <PRCP>41.4</PRCP>
+  </row>
+  <row>
+    <DATE>1980-07-01 00:00:00</DATE>
+    <TAVG>32.29</TAVG>
+    <PRCP>13.7</PRCP>
+  </row>
+  <row>
+    <DATE>1980-08-01 00:00:00</DATE>
+    <TAVG>29.54</TAVG>
+    <PRCP>167.3</PRCP>
+  </row>
+  <row>
+    <DATE>1980-09-01 00:00:00</DATE>
+    <TAVG>23.52</TAVG>
+    <PRCP>58.9</PRCP>
+  </row>
+  <row>
+    <DATE>1980-10-01 00:00:00</DATE>
+    <TAVG>14.48</TAVG>
+    <PRCP>99.1</PRCP>
+  </row>
+  <row>
+    <DATE>1980-11-01 00:00:00</DATE>
+    <TAVG>7.94</TAVG>
+    <PRCP>19.9</PRCP>
+  </row>
+  <row>
+    <DATE>1980-12-01 00:00:00</DATE>
+    <TAVG>1.47</TAVG>
+    <PRCP>69.4</PRCP>
+  </row>
+  <row>
+    <DATE>1981-01-01 00:00:00</DATE>
+    <TAVG>0.38</TAVG>
+    <PRCP>6.4</PRCP>
+  </row>
+  <row>
+    <DATE>1981-02-01 00:00:00</DATE>
+    <TAVG>2.21</TAVG>
+    <PRCP>15.0</PRCP>
+  </row>
+  <row>
+    <DATE>1981-03-01 00:00:00</DATE>
+    <TAVG>9.09</TAVG>
+    <PRCP>42.4</PRCP>
+  </row>
+  <row>
+    <DATE>1981-04-01 00:00:00</DATE>
+    <TAVG>19.13</TAVG>
+    <PRCP>57.3</PRCP>
+  </row>
+  <row>
+    <DATE>1981-05-01 00:00:00</DATE>
+    <TAVG>18.75</TAVG>
+    <PRCP>171.1</PRCP>
+  </row>
+  <row>
+    <DATE>1981-06-01 00:00:00</DATE>
+    <TAVG>26.09</TAVG>
+    <PRCP>231.9</PRCP>
+  </row>
+  <row>
+    <DATE>1981-07-01 00:00:00</DATE>
+    <TAVG>28.53</TAVG>
+    <PRCP>117.0</PRCP>
+  </row>
+  <row>
+    <DATE>1981-08-01 00:00:00</DATE>
+    <TAVG>25.73</TAVG>
+    <PRCP>50.0</PRCP>
+  </row>
+  <row>
+    <DATE>1981-09-01 00:00:00</DATE>
+    <TAVG>22.68</TAVG>
+    <PRCP>96.8</PRCP>
+  </row>
+  <row>
+    <DATE>1981-10-01 00:00:00</DATE>
+    <TAVG>15.34</TAVG>
+    <PRCP>119.9</PRCP>
+  </row>
+  <row>
+    <DATE>1981-11-01 00:00:00</DATE>
+    <TAVG>8.63</TAVG>
+    <PRCP>87.5</PRCP>
+  </row>
+  <row>
+    <DATE>1981-12-01 00:00:00</DATE>
+    <TAVG>-0.03</TAVG>
+    <PRCP>6.9</PRCP>
+  </row>
+  <row>
+    <DATE>1982-01-01 00:00:00</DATE>
+    <TAVG>-5.11</TAVG>
+    <PRCP>80.6</PRCP>
+  </row>
+  <row>
+    <DATE>1982-02-01 00:00:00</DATE>
+    <TAVG>-0.53</TAVG>
+    <PRCP>15.7</PRCP>
+  </row>
+  <row>
+    <DATE>1982-03-01 00:00:00</DATE>
+    <TAVG>7.66</TAVG>
+    <PRCP>57.2</PRCP>
+  </row>
+  <row>
+    <DATE>1982-04-01 00:00:00</DATE>
+    <TAVG>11.65</TAVG>
+    <PRCP>51.9</PRCP>
+  </row>
+  <row>
+    <DATE>1982-05-01 00:00:00</DATE>
+    <TAVG>19.37</TAVG>
+    <PRCP>177.7</PRCP>
+  </row>
+  <row>
+    <DATE>1982-06-01 00:00:00</DATE>
+    <TAVG>21.75</TAVG>
+    <PRCP>118.9</PRCP>
+  </row>
+  <row>
+    <DATE>1982-07-01 00:00:00</DATE>
+    <TAVG>27.57</TAVG>
+    <PRCP>67.3</PRCP>
+  </row>
+  <row>
+    <DATE>1982-08-01 00:00:00</DATE>
+    <TAVG>25.3</TAVG>
+    <PRCP>295.7</PRCP>
+  </row>
+  <row>
+    <DATE>1982-09-01 00:00:00</DATE>
+    <TAVG>21.44</TAVG>
+    <PRCP>32.9</PRCP>
+  </row>
+  <row>
+    <DATE>1982-10-01 00:00:00</DATE>
+    <TAVG>15.67</TAVG>
+    <PRCP>39.7</PRCP>
+  </row>
+  <row>
+    <DATE>1982-11-01 00:00:00</DATE>
+    <TAVG>7.99</TAVG>
+    <PRCP>46.8</PRCP>
+  </row>
+  <row>
+    <DATE>1982-12-01 00:00:00</DATE>
+    <TAVG>4.35</TAVG>
+    <PRCP>78.5</PRCP>
+  </row>
+  <row>
+    <DATE>1983-01-01 00:00:00</DATE>
+    <TAVG>1.3</TAVG>
+    <PRCP>13.1</PRCP>
+  </row>
+  <row>
+    <DATE>1983-02-01 00:00:00</DATE>
+    <TAVG>3.82</TAVG>
+    <PRCP>7.3</PRCP>
+  </row>
+  <row>
+    <DATE>1983-03-01 00:00:00</DATE>
+    <TAVG>8.11</TAVG>
+    <PRCP>52.2</PRCP>
+  </row>
+  <row>
+    <DATE>1983-04-01 00:00:00</DATE>
+    <TAVG>10.07</TAVG>
+    <PRCP>135.3</PRCP>
+  </row>
+  <row>
+    <DATE>1983-05-01 00:00:00</DATE>
+    <TAVG>17.95</TAVG>
+    <PRCP>133.7</PRCP>
+  </row>
+  <row>
+    <DATE>1983-06-01 00:00:00</DATE>
+    <TAVG>23.96</TAVG>
+    <PRCP>164.1</PRCP>
+  </row>
+  <row>
+    <DATE>1983-07-01 00:00:00</DATE>
+    <TAVG>28.98</TAVG>
+    <PRCP>29.7</PRCP>
+  </row>
+  <row>
+    <DATE>1983-08-01 00:00:00</DATE>
+    <TAVG>30.1</TAVG>
+    <PRCP>24.8</PRCP>
+  </row>
+  <row>
+    <DATE>1983-09-01 00:00:00</DATE>
+    <TAVG>23.15</TAVG>
+    <PRCP>48.4</PRCP>
+  </row>
+  <row>
+    <DATE>1983-10-01 00:00:00</DATE>
+    <TAVG>15.76</TAVG>
+    <PRCP>105.5</PRCP>
+  </row>
+  <row>
+    <DATE>1983-11-01 00:00:00</DATE>
+    <TAVG>8.9</TAVG>
+    <PRCP>78.7</PRCP>
+  </row>
+  <row>
+    <DATE>1983-12-01 00:00:00</DATE>
+    <TAVG>-8.21</TAVG>
+    <PRCP>39.1</PRCP>
+  </row>
+  <row>
+    <DATE>1984-01-01 00:00:00</DATE>
+    <TAVG>-1.72</TAVG>
+    <PRCP>2.0</PRCP>
+  </row>
+  <row>
+    <DATE>1984-02-01 00:00:00</DATE>
+    <TAVG>5.87</TAVG>
+    <PRCP>15.7</PRCP>
+  </row>
+  <row>
+    <DATE>1984-03-01 00:00:00</DATE>
+    <TAVG>3.75</TAVG>
+    <PRCP>80.9</PRCP>
+  </row>
+  <row>
+    <DATE>1984-04-01 00:00:00</DATE>
+    <TAVG>11.79</TAVG>
+    <PRCP>118.5</PRCP>
+  </row>
+  <row>
+    <DATE>1984-05-01 00:00:00</DATE>
+    <TAVG>17.85</TAVG>
+    <PRCP>52.2</PRCP>
+  </row>
+  <row>
+    <DATE>1984-06-01 00:00:00</DATE>
+    <TAVG>25.72</TAVG>
+    <PRCP>136.8</PRCP>
+  </row>
+  <row>
+    <DATE>1984-07-01 00:00:00</DATE>
+    <TAVG>27.39</TAVG>
+    <PRCP>18.3</PRCP>
+  </row>
+  <row>
+    <DATE>1984-08-01 00:00:00</DATE>
+    <TAVG>28.76</TAVG>
+    <PRCP>21.0</PRCP>
+  </row>
+  <row>
+    <DATE>1984-09-01 00:00:00</DATE>
+    <TAVG>19.77</TAVG>
+    <PRCP>90.5</PRCP>
+  </row>
+  <row>
+    <DATE>1984-10-01 00:00:00</DATE>
+    <TAVG>15.47</TAVG>
+    <PRCP>230.8</PRCP>
+  </row>
+  <row>
+    <DATE>1984-11-01 00:00:00</DATE>
+    <TAVG>7.63</TAVG>
+    <PRCP>9.0</PRCP>
+  </row>
+  <row>
+    <DATE>1984-12-01 00:00:00</DATE>
+    <TAVG>3.24</TAVG>
+    <PRCP>87.6</PRCP>
+  </row>
+  <row>
+    <DATE>1985-01-01 00:00:00</DATE>
+    <TAVG>-5.6</TAVG>
+    <PRCP>17.6</PRCP>
+  </row>
+  <row>
+    <DATE>1985-02-01 00:00:00</DATE>
+    <TAVG>-1.86</TAVG>
+    <PRCP>30.4</PRCP>
+  </row>
+  <row>
+    <DATE>1985-03-01 00:00:00</DATE>
+    <TAVG>9.96</TAVG>
+    <PRCP>21.7</PRCP>
+  </row>
+  <row>
+    <DATE>1985-04-01 00:00:00</DATE>
+    <TAVG>15.64</TAVG>
+    <PRCP>29.4</PRCP>
+  </row>
+  <row>
+    <DATE>1985-05-01 00:00:00</DATE>
+    <TAVG>20.06</TAVG>
+    <PRCP>70.0</PRCP>
+  </row>
+  <row>
+    <DATE>1985-06-01 00:00:00</DATE>
+    <TAVG>21.94</TAVG>
+    <PRCP>98.8</PRCP>
+  </row>
+  <row>
+    <DATE>1985-07-01 00:00:00</DATE>
+    <TAVG>27.58</TAVG>
+    <PRCP>56.8</PRCP>
+  </row>
+  <row>
+    <DATE>1985-08-01 00:00:00</DATE>
+    <TAVG>24.2</TAVG>
+    <PRCP>179.7</PRCP>
+  </row>
+  <row>
+    <DATE>1985-09-01 00:00:00</DATE>
+    <TAVG>21.32</TAVG>
+    <PRCP>135.6</PRCP>
+  </row>
+  <row>
+    <DATE>1985-10-01 00:00:00</DATE>
+    <TAVG>15.16</TAVG>
+    <PRCP>197.4</PRCP>
+  </row>
+  <row>
+    <DATE>1985-11-01 00:00:00</DATE>
+    <TAVG>4.53</TAVG>
+    <PRCP>82.1</PRCP>
+  </row>
+  <row>
+    <DATE>1985-12-01 00:00:00</DATE>
+    <TAVG>-3.39</TAVG>
+    <PRCP>27.3</PRCP>
+  </row>
+  <row>
+    <DATE>1986-01-01 00:00:00</DATE>
+    <TAVG>3.1</TAVG>
+    <PRCP>0.5</PRCP>
+  </row>
+  <row>
+    <DATE>1986-02-01 00:00:00</DATE>
+    <TAVG>0.82</TAVG>
+    <PRCP>17.7</PRCP>
+  </row>
+  <row>
+    <DATE>1986-03-01 00:00:00</DATE>
+    <TAVG>10.96</TAVG>
+    <PRCP>27.5</PRCP>
+  </row>
+  <row>
+    <DATE>1986-04-01 00:00:00</DATE>
+    <TAVG>15.44</TAVG>
+    <PRCP>55.7</PRCP>
+  </row>
+  <row>
+    <DATE>1986-05-01 00:00:00</DATE>
+    <TAVG>19.94</TAVG>
+    <PRCP>115.6</PRCP>
+  </row>
+  <row>
+    <DATE>1986-06-01 00:00:00</DATE>
+    <TAVG>25.95</TAVG>
+    <PRCP>85.4</PRCP>
+  </row>
+  <row>
+    <DATE>1986-07-01 00:00:00</DATE>
+    <TAVG>27.92</TAVG>
+    <PRCP>159.2</PRCP>
+  </row>
+  <row>
+    <DATE>1986-08-01 00:00:00</DATE>
+    <TAVG>23.7</TAVG>
+    <PRCP>44.5</PRCP>
+  </row>
+  <row>
+    <DATE>1986-09-01 00:00:00</DATE>
+    <TAVG>23.1</TAVG>
+    <PRCP>276.5</PRCP>
+  </row>
+  <row>
+    <DATE>1986-10-01 00:00:00</DATE>
+    <TAVG>14.03</TAVG>
+    <PRCP>65.7</PRCP>
+  </row>
+  <row>
+    <DATE>1986-11-01 00:00:00</DATE>
+    <TAVG>4.19</TAVG>
+    <PRCP>30.5</PRCP>
+  </row>
+  <row>
+    <DATE>1986-12-01 00:00:00</DATE>
+    <TAVG>2.25</TAVG>
+    <PRCP>30.0</PRCP>
+  </row>
+  <row>
+    <DATE>1987-01-01 00:00:00</DATE>
+    <TAVG>-0.43</TAVG>
+    <PRCP>20.1</PRCP>
+  </row>
+  <row>
+    <DATE>1987-02-01 00:00:00</DATE>
+    <TAVG>4.68</TAVG>
+    <PRCP>69.4</PRCP>
+  </row>
+  <row>
+    <DATE>1987-03-01 00:00:00</DATE>
+    <TAVG>9.09</TAVG>
+    <PRCP>74.7</PRCP>
+  </row>
+  <row>
+    <DATE>1987-04-01 00:00:00</DATE>
+    <TAVG>14.43</TAVG>
+    <PRCP>55.5</PRCP>
+  </row>
+  <row>
+    <DATE>1987-05-01 00:00:00</DATE>
+    <TAVG>21.85</TAVG>
+    <PRCP>103.5</PRCP>
+  </row>
+  <row>
+    <DATE>1987-06-01 00:00:00</DATE>
+    <TAVG>25.34</TAVG>
+    <PRCP>115.0</PRCP>
+  </row>
+  <row>
+    <DATE>1987-07-01 00:00:00</DATE>
+    <TAVG>27.71</TAVG>
+    <PRCP>36.7</PRCP>
+  </row>
+  <row>
+    <DATE>1987-08-01 00:00:00</DATE>
+    <TAVG>26.0</TAVG>
+    <PRCP>101.5</PRCP>
+  </row>
+  <row>
+    <DATE>1987-09-01 00:00:00</DATE>
+    <TAVG>20.95</TAVG>
+    <PRCP>84.5</PRCP>
+  </row>
+  <row>
+    <DATE>1987-10-01 00:00:00</DATE>
+    <TAVG>12.52</TAVG>
+    <PRCP>48.8</PRCP>
+  </row>
+  <row>
+    <DATE>1987-11-01 00:00:00</DATE>
+    <TAVG>9.06</TAVG>
+    <PRCP>37.9</PRCP>
+  </row>
+  <row>
+    <DATE>1987-12-01 00:00:00</DATE>
+    <TAVG>2.81</TAVG>
+    <PRCP>67.1</PRCP>
+  </row>
+  <row>
+    <DATE>1988-01-01 00:00:00</DATE>
+    <TAVG>-1.58</TAVG>
+    <PRCP>28.9</PRCP>
+  </row>
+  <row>
+    <DATE>1988-02-01 00:00:00</DATE>
+    <TAVG>-0.87</TAVG>
+    <PRCP>20.6</PRCP>
+  </row>
+  <row>
+    <DATE>1988-03-01 00:00:00</DATE>
+    <TAVG>7.27</TAVG>
+    <PRCP>31.0</PRCP>
+  </row>
+  <row>
+    <DATE>1988-04-01 00:00:00</DATE>
+    <TAVG>13.34</TAVG>
+    <PRCP>58.9</PRCP>
+  </row>
+  <row>
+    <DATE>1988-05-01 00:00:00</DATE>
+    <TAVG>21.24</TAVG>
+    <PRCP>39.0</PRCP>
+  </row>
+  <row>
+    <DATE>1988-06-01 00:00:00</DATE>
+    <TAVG>26.52</TAVG>
+    <PRCP>34.8</PRCP>
+  </row>
+  <row>
+    <DATE>1988-07-01 00:00:00</DATE>
+    <TAVG>27.12</TAVG>
+    <PRCP>27.4</PRCP>
+  </row>
+  <row>
+    <DATE>1988-08-01 00:00:00</DATE>
+    <TAVG>28.28</TAVG>
+    <PRCP>24.5</PRCP>
+  </row>
+  <row>
+    <DATE>1988-09-01 00:00:00</DATE>
+    <TAVG>22.4</TAVG>
+    <PRCP>132.9</PRCP>
+  </row>
+  <row>
+    <DATE>1988-10-01 00:00:00</DATE>
+    <TAVG>12.45</TAVG>
+    <PRCP>12.2</PRCP>
+  </row>
+  <row>
+    <DATE>1988-11-01 00:00:00</DATE>
+    <TAVG>8.34</TAVG>
+    <PRCP>49.4</PRCP>
+  </row>
+  <row>
+    <DATE>1988-12-01 00:00:00</DATE>
+    <TAVG>2.75</TAVG>
+    <PRCP>27.7</PRCP>
+  </row>
+  <row>
+    <DATE>1989-01-01 00:00:00</DATE>
+    <TAVG>4.15</TAVG>
+    <PRCP>28.7</PRCP>
+  </row>
+  <row>
+    <DATE>1989-02-01 00:00:00</DATE>
+    <TAVG>-4.34</TAVG>
+    <PRCP>10.3</PRCP>
+  </row>
+  <row>
+    <DATE>1989-03-01 00:00:00</DATE>
+    <TAVG>7.45</TAVG>
+    <PRCP>80.2</PRCP>
+  </row>
+  <row>
+    <DATE>1989-04-01 00:00:00</DATE>
+    <TAVG>14.94</TAVG>
+    <PRCP>31.6</PRCP>
+  </row>
+  <row>
+    <DATE>1989-05-01 00:00:00</DATE>
+    <TAVG>18.0</TAVG>
+    <PRCP>127.7</PRCP>
+  </row>
+  <row>
+    <DATE>1989-06-01 00:00:00</DATE>
+    <TAVG>22.56</TAVG>
+    <PRCP>81.8</PRCP>
+  </row>
+  <row>
+    <DATE>1989-07-01 00:00:00</DATE>
+    <TAVG>26.32</TAVG>
+    <PRCP>106.8</PRCP>
+  </row>
+  <row>
+    <DATE>1989-08-01 00:00:00</DATE>
+    <TAVG>25.31</TAVG>
+    <PRCP>157.2</PRCP>
+  </row>
+  <row>
+    <DATE>1989-09-01 00:00:00</DATE>
+    <TAVG>18.02</TAVG>
+    <PRCP>188.1</PRCP>
+  </row>
+  <row>
+    <DATE>1989-10-01 00:00:00</DATE>
+    <TAVG>14.83</TAVG>
+    <PRCP>109.5</PRCP>
+  </row>
+  <row>
+    <DATE>1989-11-01 00:00:00</DATE>
+    <TAVG>6.87</TAVG>
+    <PRCP>0.0</PRCP>
+  </row>
+  <row>
+    <DATE>1989-12-01 00:00:00</DATE>
+    <TAVG>-4.68</TAVG>
+    <PRCP>7.1</PRCP>
+  </row>
+  <row>
+    <DATE>1990-01-01 00:00:00</DATE>
+    <TAVG>4.53</TAVG>
+    <PRCP>36.8</PRCP>
+  </row>
+  <row>
+    <DATE>1990-02-01 00:00:00</DATE>
+    <TAVG>3.6</TAVG>
+    <PRCP>39.3</PRCP>
+  </row>
+  <row>
+    <DATE>1990-03-01 00:00:00</DATE>
+    <TAVG>8.66</TAVG>
+    <PRCP>78.2</PRCP>
+  </row>
+  <row>
+    <DATE>1990-04-01 00:00:00</DATE>
+    <TAVG>12.22</TAVG>
+    <PRCP>21.9</PRCP>
+  </row>
+  <row>
+    <DATE>1990-05-01 00:00:00</DATE>
+    <TAVG>17.0</TAVG>
+    <PRCP>239.4</PRCP>
+  </row>
+  <row>
+    <DATE>1990-06-01 00:00:00</DATE>
+    <TAVG>25.8</TAVG>
+    <PRCP>136.9</PRCP>
+  </row>
+  <row>
+    <DATE>1990-07-01 00:00:00</DATE>
+    <TAVG>26.87</TAVG>
+    <PRCP>93.3</PRCP>
+  </row>
+  <row>
+    <DATE>1990-08-01 00:00:00</DATE>
+    <TAVG>26.34</TAVG>
+    <PRCP>99.9</PRCP>
+  </row>
+  <row>
+    <DATE>1990-09-01 00:00:00</DATE>
+    <TAVG>23.19</TAVG>
+    <PRCP>12.0</PRCP>
+  </row>
+  <row>
+    <DATE>1990-10-01 00:00:00</DATE>
+    <TAVG>14.95</TAVG>
+    <PRCP>56.9</PRCP>
+  </row>
+  <row>
+    <DATE>1990-11-01 00:00:00</DATE>
+    <TAVG>10.86</TAVG>
+    <PRCP>103.6</PRCP>
+  </row>
+  <row>
+    <DATE>1990-12-01 00:00:00</DATE>
+    <TAVG>-0.37</TAVG>
+    <PRCP>28.0</PRCP>
+  </row>
+  <row>
+    <DATE>1991-01-01 00:00:00</DATE>
+    <TAVG>-3.62</TAVG>
+    <PRCP>33.6</PRCP>
+  </row>
+  <row>
+    <DATE>1991-02-01 00:00:00</DATE>
+    <TAVG>5.3</TAVG>
+    <PRCP>1.0</PRCP>
+  </row>
+  <row>
+    <DATE>1991-03-01 00:00:00</DATE>
+    <TAVG>9.79</TAVG>
+    <PRCP>53.5</PRCP>
+  </row>
+  <row>
+    <DATE>1991-04-01 00:00:00</DATE>
+    <TAVG>15.27</TAVG>
+    <PRCP>120.1</PRCP>
+  </row>
+  <row>
+    <DATE>1991-05-01 00:00:00</DATE>
+    <TAVG>21.42</TAVG>
+    <PRCP>169.6</PRCP>
+  </row>
+  <row>
+    <DATE>1991-06-01 00:00:00</DATE>
+    <TAVG>26.7</TAVG>
+    <PRCP>42.4</PRCP>
+  </row>
+  <row>
+    <DATE>1991-07-01 00:00:00</DATE>
+    <TAVG>28.67</TAVG>
+    <PRCP>25.2</PRCP>
+  </row>
+  <row>
+    <DATE>1991-08-01 00:00:00</DATE>
+    <TAVG>26.88</TAVG>
+    <PRCP>28.9</PRCP>
+  </row>
+  <row>
+    <DATE>1991-09-01 00:00:00</DATE>
+    <TAVG>22.43</TAVG>
+    <PRCP>95.3</PRCP>
+  </row>
+  <row>
+    <DATE>1991-10-01 00:00:00</DATE>
+    <TAVG>15.22</TAVG>
+    <PRCP>51.8</PRCP>
+  </row>
+  <row>
+    <DATE>1991-11-01 00:00:00</DATE>
+    <TAVG>3.66</TAVG>
+    <PRCP>45.3</PRCP>
+  </row>
+  <row>
+    <DATE>1991-12-01 00:00:00</DATE>
+    <TAVG>3.66</TAVG>
+    <PRCP>46.3</PRCP>
+  </row>
+  <row>
+    <DATE>1992-01-01 00:00:00</DATE>
+    <TAVG>2.82</TAVG>
+    <PRCP>30.8</PRCP>
+  </row>
+  <row>
+    <DATE>1992-02-01 00:00:00</DATE>
+    <TAVG>5.28</TAVG>
+    <PRCP>49.9</PRCP>
+  </row>
+  <row>
+    <DATE>1992-03-01 00:00:00</DATE>
+    <TAVG>9.58</TAVG>
+    <PRCP>102.1</PRCP>
+  </row>
+  <row>
+    <DATE>1992-04-01 00:00:00</DATE>
+    <TAVG>12.53</TAVG>
+    <PRCP>101.9</PRCP>
+  </row>
+  <row>
+    <DATE>1992-05-01 00:00:00</DATE>
+    <TAVG>18.29</TAVG>
+    <PRCP>36.6</PRCP>
+  </row>
+  <row>
+    <DATE>1992-06-01 00:00:00</DATE>
+    <TAVG>22.72</TAVG>
+    <PRCP>74.6</PRCP>
+  </row>
+  <row>
+    <DATE>1992-07-01 00:00:00</DATE>
+    <TAVG>25.68</TAVG>
+    <PRCP>232.7</PRCP>
+  </row>
+  <row>
+    <DATE>1992-08-01 00:00:00</DATE>
+    <TAVG>22.93</TAVG>
+    <PRCP>57.5</PRCP>
+  </row>
+  <row>
+    <DATE>1992-09-01 00:00:00</DATE>
+    <TAVG>20.68</TAVG>
+    <PRCP>102.3</PRCP>
+  </row>
+  <row>
+    <DATE>1992-10-01 00:00:00</DATE>
+    <TAVG>14.83</TAVG>
+    <PRCP>42.0</PRCP>
+  </row>
+  <row>
+    <DATE>1992-11-01 00:00:00</DATE>
+    <TAVG>4.74</TAVG>
+    <PRCP>147.1</PRCP>
+  </row>
+  <row>
+    <DATE>1992-12-01 00:00:00</DATE>
+    <TAVG>1.25</TAVG>
+    <PRCP>104.8</PRCP>
+  </row>
+  <row>
+    <DATE>1993-01-01 00:00:00</DATE>
+    <TAVG>-2.31</TAVG>
+    <PRCP>62.2</PRCP>
+  </row>
+  <row>
+    <DATE>1993-02-01 00:00:00</DATE>
+    <TAVG>-1.03</TAVG>
+    <PRCP>33.8</PRCP>
+  </row>
+  <row>
+    <DATE>1993-03-01 00:00:00</DATE>
+    <TAVG>4.97</TAVG>
+    <PRCP>39.2</PRCP>
+  </row>
+  <row>
+    <DATE>1993-04-01 00:00:00</DATE>
+    <TAVG>11.15</TAVG>
+    <PRCP>142.5</PRCP>
+  </row>
+  <row>
+    <DATE>1993-05-01 00:00:00</DATE>
+    <TAVG>18.74</TAVG>
+    <PRCP>184.6</PRCP>
+  </row>
+  <row>
+    <DATE>1993-06-01 00:00:00</DATE>
+    <TAVG>24.37</TAVG>
+    <PRCP>115.1</PRCP>
+  </row>
+  <row>
+    <DATE>1993-07-01 00:00:00</DATE>
+    <TAVG>26.67</TAVG>
+    <PRCP>289.4</PRCP>
+  </row>
+  <row>
+    <DATE>1993-08-01 00:00:00</DATE>
+    <TAVG>26.81</TAVG>
+    <PRCP>101.5</PRCP>
+  </row>
+  <row>
+    <DATE>1993-09-01 00:00:00</DATE>
+    <TAVG>18.19</TAVG>
+    <PRCP>287.4</PRCP>
+  </row>
+  <row>
+    <DATE>1993-10-01 00:00:00</DATE>
+    <TAVG>12.82</TAVG>
+    <PRCP>49.9</PRCP>
+  </row>
+  <row>
+    <DATE>1995-01-01 00:00:00</DATE>
+    <TAVG>-0.91</TAVG>
+    <PRCP/>
+  </row>
+  <row>
+    <DATE>1995-02-01 00:00:00</DATE>
+    <TAVG>3.59</TAVG>
+    <PRCP>27.7</PRCP>
+  </row>
+  <row>
+    <DATE>1995-03-01 00:00:00</DATE>
+    <TAVG>8.19</TAVG>
+    <PRCP>30.5</PRCP>
+  </row>
+  <row>
+    <DATE>1995-04-01 00:00:00</DATE>
+    <TAVG>12.45</TAVG>
+    <PRCP>96.6</PRCP>
+  </row>
+  <row>
+    <DATE>1995-05-01 00:00:00</DATE>
+    <TAVG>15.87</TAVG>
+    <PRCP>259.7</PRCP>
+  </row>
+  <row>
+    <DATE>1995-06-01 00:00:00</DATE>
+    <TAVG>23.78</TAVG>
+    <PRCP>103.6</PRCP>
+  </row>
+  <row>
+    <DATE>1995-07-01 00:00:00</DATE>
+    <TAVG>27.69</TAVG>
+    <PRCP>118.1</PRCP>
+  </row>
+  <row>
+    <DATE>1995-08-01 00:00:00</DATE>
+    <TAVG>28.29</TAVG>
+    <PRCP>95.0</PRCP>
+  </row>
+  <row>
+    <DATE>1995-09-01 00:00:00</DATE>
+    <TAVG>20.08</TAVG>
+    <PRCP>56.0</PRCP>
+  </row>
+  <row>
+    <DATE>1995-10-01 00:00:00</DATE>
+    <TAVG>15.65</TAVG>
+    <PRCP>13.2</PRCP>
+  </row>
+  <row>
+    <DATE>1995-11-01 00:00:00</DATE>
+    <TAVG>5.64</TAVG>
+    <PRCP>29.7</PRCP>
+  </row>
+  <row>
+    <DATE>1995-12-01 00:00:00</DATE>
+    <TAVG>0.73</TAVG>
+    <PRCP>13.9</PRCP>
+  </row>
+  <row>
+    <DATE>1996-01-01 00:00:00</DATE>
+    <TAVG>-2.95</TAVG>
+    <PRCP>16.0</PRCP>
+  </row>
+  <row>
+    <DATE>1996-02-01 00:00:00</DATE>
+    <TAVG>2.27</TAVG>
+    <PRCP>2.5</PRCP>
+  </row>
+  <row>
+    <DATE>1996-03-01 00:00:00</DATE>
+    <TAVG>4.31</TAVG>
+    <PRCP>31.5</PRCP>
+  </row>
+  <row>
+    <DATE>1996-04-01 00:00:00</DATE>
+    <TAVG>12.44</TAVG>
+    <PRCP>63.8</PRCP>
+  </row>
+  <row>
+    <DATE>1996-05-01 00:00:00</DATE>
+    <TAVG>19.09</TAVG>
+    <PRCP>224.5</PRCP>
+  </row>
+  <row>
+    <DATE>1996-06-01 00:00:00</DATE>
+    <TAVG>24.62</TAVG>
+    <PRCP>144.8</PRCP>
+  </row>
+  <row>
+    <DATE>1996-07-01 00:00:00</DATE>
+    <TAVG>25.3</TAVG>
+    <PRCP>123.3</PRCP>
+  </row>
+  <row>
+    <DATE>1996-08-01 00:00:00</DATE>
+    <TAVG>24.71</TAVG>
+    <PRCP>140.5</PRCP>
+  </row>
+  <row>
+    <DATE>1996-09-01 00:00:00</DATE>
+    <TAVG>19.36</TAVG>
+    <PRCP>114.0</PRCP>
+  </row>
+  <row>
+    <DATE>1996-10-01 00:00:00</DATE>
+    <TAVG>13.95</TAVG>
+    <PRCP>104.1</PRCP>
+  </row>
+  <row>
+    <DATE>1996-11-01 00:00:00</DATE>
+    <TAVG>3.89</TAVG>
+    <PRCP>104.4</PRCP>
+  </row>
+  <row>
+    <DATE>1996-12-01 00:00:00</DATE>
+    <TAVG>0.81</TAVG>
+    <PRCP>0.0</PRCP>
+  </row>
+  <row>
+    <DATE>1997-01-01 00:00:00</DATE>
+    <TAVG>-3.21</TAVG>
+    <PRCP>5.9</PRCP>
+  </row>
+  <row>
+    <DATE>1997-02-01 00:00:00</DATE>
+    <TAVG>2.33</TAVG>
+    <PRCP>74.2</PRCP>
+  </row>
+  <row>
+    <DATE>1997-03-01 00:00:00</DATE>
+    <TAVG>8.68</TAVG>
+    <PRCP>34.1</PRCP>
+  </row>
+  <row>
+    <DATE>1997-04-01 00:00:00</DATE>
+    <TAVG>10.8</TAVG>
+    <PRCP>118.9</PRCP>
+  </row>
+  <row>
+    <DATE>1997-05-01 00:00:00</DATE>
+    <TAVG>17.2</TAVG>
+    <PRCP>98.2</PRCP>
+  </row>
+  <row>
+    <DATE>1997-06-01 00:00:00</DATE>
+    <TAVG>24.08</TAVG>
+    <PRCP>85.9</PRCP>
+  </row>
+  <row>
+    <DATE>1997-07-01 00:00:00</DATE>
+    <TAVG>27.25</TAVG>
+    <PRCP>140.8</PRCP>
+  </row>
+  <row>
+    <DATE>1997-08-01 00:00:00</DATE>
+    <TAVG>25.5</TAVG>
+    <PRCP>39.2</PRCP>
+  </row>
+  <row>
+    <DATE>1997-09-01 00:00:00</DATE>
+    <TAVG>22.13</TAVG>
+    <PRCP>58.4</PRCP>
+  </row>
+  <row>
+    <DATE>1997-10-01 00:00:00</DATE>
+    <TAVG>15.24</TAVG>
+    <PRCP>105.0</PRCP>
+  </row>
+  <row>
+    <DATE>1997-11-01 00:00:00</DATE>
+    <TAVG>5.72</TAVG>
+    <PRCP>57.1</PRCP>
+  </row>
+  <row>
+    <DATE>1997-12-01 00:00:00</DATE>
+    <TAVG>1.36</TAVG>
+    <PRCP>26.7</PRCP>
+  </row>
+  <row>
+    <DATE>1998-01-01 00:00:00</DATE>
+    <TAVG>1.46</TAVG>
+    <PRCP>5.6</PRCP>
+  </row>
+  <row>
+    <DATE>1998-02-01 00:00:00</DATE>
+    <TAVG>5.3</TAVG>
+    <PRCP>12.3</PRCP>
+  </row>
+  <row>
+    <DATE>1998-03-01 00:00:00</DATE>
+    <TAVG>4.18</TAVG>
+    <PRCP>72.3</PRCP>
+  </row>
+  <row>
+    <DATE>1998-04-01 00:00:00</DATE>
+    <TAVG>12.1</TAVG>
+    <PRCP>77.2</PRCP>
+  </row>
+  <row>
+    <DATE>1998-05-01 00:00:00</DATE>
+    <TAVG>22.44</TAVG>
+    <PRCP>32.3</PRCP>
+  </row>
+  <row>
+    <DATE>1998-06-01 00:00:00</DATE>
+    <TAVG>23.57</TAVG>
+    <PRCP>209.3</PRCP>
+  </row>
+  <row>
+    <DATE>1998-07-01 00:00:00</DATE>
+    <TAVG>26.78</TAVG>
+    <PRCP>209.9</PRCP>
+  </row>
+  <row>
+    <DATE>1998-08-01 00:00:00</DATE>
+    <TAVG>26.87</TAVG>
+    <PRCP>51.0</PRCP>
+  </row>
+  <row>
+    <DATE>1998-09-01 00:00:00</DATE>
+    <TAVG>23.53</TAVG>
+    <PRCP>107.2</PRCP>
+  </row>
+  <row>
+    <DATE>1998-10-01 00:00:00</DATE>
+    <TAVG>15.91</TAVG>
+    <PRCP>234.2</PRCP>
+  </row>
+  <row>
+    <DATE>1998-11-01 00:00:00</DATE>
+    <TAVG>9.99</TAVG>
+    <PRCP>135.4</PRCP>
+  </row>
+  <row>
+    <DATE>1998-12-01 00:00:00</DATE>
+    <TAVG>3.07</TAVG>
+    <PRCP>34.8</PRCP>
+  </row>
+  <row>
+    <DATE>1999-01-01 00:00:00</DATE>
+    <TAVG>-1.37</TAVG>
+    <PRCP>56.0</PRCP>
+  </row>
+  <row>
+    <DATE>1999-02-01 00:00:00</DATE>
+    <TAVG>6.22</TAVG>
+    <PRCP>37.4</PRCP>
+  </row>
+  <row>
+    <DATE>1999-03-01 00:00:00</DATE>
+    <TAVG>6.74</TAVG>
+    <PRCP>33.7</PRCP>
+  </row>
+  <row>
+    <DATE>1999-04-01 00:00:00</DATE>
+    <TAVG>13.56</TAVG>
+    <PRCP>150.5</PRCP>
+  </row>
+  <row>
+    <DATE>1999-05-01 00:00:00</DATE>
+    <TAVG>18.47</TAVG>
+    <PRCP>133.6</PRCP>
+  </row>
+  <row>
+    <DATE>1999-06-01 00:00:00</DATE>
+    <TAVG>23.11</TAVG>
+    <PRCP>268.5</PRCP>
+  </row>
+  <row>
+    <DATE>1999-07-01 00:00:00</DATE>
+    <TAVG>28.72</TAVG>
+    <PRCP>7.1</PRCP>
+  </row>
+  <row>
+    <DATE>1999-08-01 00:00:00</DATE>
+    <TAVG>25.68</TAVG>
+    <PRCP>48.9</PRCP>
+  </row>
+  <row>
+    <DATE>1999-09-01 00:00:00</DATE>
+    <TAVG>20.08</TAVG>
+    <PRCP>159.2</PRCP>
+  </row>
+  <row>
+    <DATE>1999-10-01 00:00:00</DATE>
+    <TAVG>15.15</TAVG>
+    <PRCP>6.1</PRCP>
+  </row>
+  <row>
+    <DATE>1999-11-01 00:00:00</DATE>
+    <TAVG>12.05</TAVG>
+    <PRCP>27.9</PRCP>
+  </row>
+  <row>
+    <DATE>1999-12-01 00:00:00</DATE>
+    <TAVG>3.37</TAVG>
+    <PRCP>43.8</PRCP>
+  </row>
+  <row>
+    <DATE>2000-01-01 00:00:00</DATE>
+    <TAVG>1.13</TAVG>
+    <PRCP>9.1</PRCP>
+  </row>
+  <row>
+    <DATE>2000-02-01 00:00:00</DATE>
+    <TAVG>6.26</TAVG>
+    <PRCP>54.8</PRCP>
+  </row>
+  <row>
+    <DATE>2000-03-01 00:00:00</DATE>
+    <TAVG>9.2</TAVG>
+    <PRCP>49.7</PRCP>
+  </row>
+  <row>
+    <DATE>2000-04-01 00:00:00</DATE>
+    <TAVG>13.87</TAVG>
+    <PRCP>15.6</PRCP>
+  </row>
+  <row>
+    <DATE>2000-05-01 00:00:00</DATE>
+    <TAVG>21.08</TAVG>
+    <PRCP>57.7</PRCP>
+  </row>
+  <row>
+    <DATE>2000-06-01 00:00:00</DATE>
+    <TAVG>23.02</TAVG>
+    <PRCP>260.1</PRCP>
+  </row>
+  <row>
+    <DATE>2000-07-01 00:00:00</DATE>
+    <TAVG>26.84</TAVG>
+    <PRCP>125.7</PRCP>
+  </row>
+  <row>
+    <DATE>2000-08-01 00:00:00</DATE>
+    <TAVG>29.76</TAVG>
+    <PRCP>18.3</PRCP>
+  </row>
+  <row>
+    <DATE>2000-09-01 00:00:00</DATE>
+    <TAVG>23.1</TAVG>
+    <PRCP>103.0</PRCP>
+  </row>
+  <row>
+    <DATE>2000-10-01 00:00:00</DATE>
+    <TAVG>16.75</TAVG>
+    <PRCP>117.2</PRCP>
+  </row>
+  <row>
+    <DATE>2000-11-01 00:00:00</DATE>
+    <TAVG>3.86</TAVG>
+    <PRCP>46.3</PRCP>
+  </row>
+  <row>
+    <DATE>2000-12-01 00:00:00</DATE>
+    <TAVG>-6.25</TAVG>
+    <PRCP>241.6</PRCP>
+  </row>
+  <row>
+    <DATE>2001-01-01 00:00:00</DATE>
+    <TAVG>-0.98</TAVG>
+    <PRCP>111.1</PRCP>
+  </row>
+  <row>
+    <DATE>2001-02-01 00:00:00</DATE>
+    <TAVG>-0.35</TAVG>
+    <PRCP>144.6</PRCP>
+  </row>
+  <row>
+    <DATE>2001-03-01 00:00:00</DATE>
+    <TAVG>4.75</TAVG>
+    <PRCP>66.9</PRCP>
+  </row>
+  <row>
+    <DATE>2001-04-01 00:00:00</DATE>
+    <TAVG>16.7</TAVG>
+    <PRCP>117.6</PRCP>
+  </row>
+  <row>
+    <DATE>2001-05-01 00:00:00</DATE>
+    <TAVG>20.15</TAVG>
+    <PRCP>175.5</PRCP>
+  </row>
+  <row>
+    <DATE>2001-06-01 00:00:00</DATE>
+    <TAVG>23.37</TAVG>
+    <PRCP>279.6</PRCP>
+  </row>
+  <row>
+    <DATE>2001-07-01 00:00:00</DATE>
+    <TAVG>28.38</TAVG>
+    <PRCP>125.1</PRCP>
+  </row>
+  <row>
+    <DATE>2001-08-01 00:00:00</DATE>
+    <TAVG>27.02</TAVG>
+    <PRCP>133.6</PRCP>
+  </row>
+  <row>
+    <DATE>2001-09-01 00:00:00</DATE>
+    <TAVG>20.21</TAVG>
+    <PRCP>87.8</PRCP>
+  </row>
+  <row>
+    <DATE>2001-10-01 00:00:00</DATE>
+    <TAVG>14.41</TAVG>
+    <PRCP>81.8</PRCP>
+  </row>
+  <row>
+    <DATE>2001-11-01 00:00:00</DATE>
+    <TAVG>11.69</TAVG>
+    <PRCP>26.7</PRCP>
+  </row>
+  <row>
+    <DATE>2001-12-01 00:00:00</DATE>
+    <TAVG>3.94</TAVG>
+    <PRCP>24.4</PRCP>
+  </row>
+  <row>
+    <DATE>2002-01-01 00:00:00</DATE>
+    <TAVG>1.49</TAVG>
+    <PRCP>55.3</PRCP>
+  </row>
+  <row>
+    <DATE>2002-02-01 00:00:00</DATE>
+    <TAVG>3.09</TAVG>
+    <PRCP>26.6</PRCP>
+  </row>
+  <row>
+    <DATE>2002-03-01 00:00:00</DATE>
+    <TAVG>5.0</TAVG>
+    <PRCP>26.2</PRCP>
+  </row>
+  <row>
+    <DATE>2002-04-01 00:00:00</DATE>
+    <TAVG>13.83</TAVG>
+    <PRCP>133.9</PRCP>
+  </row>
+  <row>
+    <DATE>2002-05-01 00:00:00</DATE>
+    <TAVG>16.63</TAVG>
+    <PRCP>204.5</PRCP>
+  </row>
+  <row>
+    <DATE>2002-06-01 00:00:00</DATE>
+    <TAVG>24.48</TAVG>
+    <PRCP>63.0</PRCP>
+  </row>
+  <row>
+    <DATE>2002-07-01 00:00:00</DATE>
+    <TAVG>28.43</TAVG>
+    <PRCP>43.2</PRCP>
+  </row>
+  <row>
+    <DATE>2002-08-01 00:00:00</DATE>
+    <TAVG>26.32</TAVG>
+    <PRCP>86.6</PRCP>
+  </row>
+  <row>
+    <DATE>2002-09-01 00:00:00</DATE>
+    <TAVG>23.57</TAVG>
+    <PRCP>26.4</PRCP>
+  </row>
+  <row>
+    <DATE>2002-10-01 00:00:00</DATE>
+    <TAVG>11.45</TAVG>
+    <PRCP>89.7</PRCP>
+  </row>
+  <row>
+    <DATE>2002-11-01 00:00:00</DATE>
+    <TAVG>6.26</TAVG>
+    <PRCP>10.4</PRCP>
+  </row>
+  <row>
+    <DATE>2002-12-01 00:00:00</DATE>
+    <TAVG>3.37</TAVG>
+    <PRCP>0.0</PRCP>
+  </row>
+  <row>
+    <DATE>2003-01-01 00:00:00</DATE>
+    <TAVG>-1.47</TAVG>
+    <PRCP>4.6</PRCP>
+  </row>
+  <row>
+    <DATE>2003-02-01 00:00:00</DATE>
+    <TAVG>-0.54</TAVG>
+    <PRCP>54.6</PRCP>
+  </row>
+  <row>
+    <DATE>2003-03-01 00:00:00</DATE>
+    <TAVG>7.4</TAVG>
+    <PRCP>43.7</PRCP>
+  </row>
+  <row>
+    <DATE>2003-04-01 00:00:00</DATE>
+    <TAVG>14.61</TAVG>
+    <PRCP>109.2</PRCP>
+  </row>
+  <row>
+    <DATE>2003-05-01 00:00:00</DATE>
+    <TAVG>18.5</TAVG>
+    <PRCP>56.7</PRCP>
+  </row>
+  <row>
+    <DATE>2003-06-01 00:00:00</DATE>
+    <TAVG>22.62</TAVG>
+    <PRCP>171.8</PRCP>
+  </row>
+  <row>
+    <DATE>2003-07-01 00:00:00</DATE>
+    <TAVG>28.41</TAVG>
+    <PRCP>8.9</PRCP>
+  </row>
+  <row>
+    <DATE>2003-08-01 00:00:00</DATE>
+    <TAVG>28.0</TAVG>
+    <PRCP>261.0</PRCP>
+  </row>
+  <row>
+    <DATE>2003-09-01 00:00:00</DATE>
+    <TAVG>19.24</TAVG>
+    <PRCP>66.7</PRCP>
+  </row>
+  <row>
+    <DATE>2003-10-01 00:00:00</DATE>
+    <TAVG>15.23</TAVG>
+    <PRCP>35.5</PRCP>
+  </row>
+  <row>
+    <DATE>2003-11-01 00:00:00</DATE>
+    <TAVG>7.2</TAVG>
+    <PRCP>48.4</PRCP>
+  </row>
+  <row>
+    <DATE>2003-12-01 00:00:00</DATE>
+    <TAVG>2.64</TAVG>
+    <PRCP>79.5</PRCP>
+  </row>
+  <row>
+    <DATE>2004-01-01 00:00:00</DATE>
+    <TAVG>-1.73</TAVG>
+    <PRCP>30.3</PRCP>
+  </row>
+  <row>
+    <DATE>2004-02-01 00:00:00</DATE>
+    <TAVG>0.52</TAVG>
+    <PRCP>78.1</PRCP>
+  </row>
+  <row>
+    <DATE>2004-03-01 00:00:00</DATE>
+    <TAVG>9.7</TAVG>
+    <PRCP>111.6</PRCP>
+  </row>
+  <row>
+    <DATE>2004-04-01 00:00:00</DATE>
+    <TAVG>14.49</TAVG>
+    <PRCP>64.1</PRCP>
+  </row>
+  <row>
+    <DATE>2004-05-01 00:00:00</DATE>
+    <TAVG>20.39</TAVG>
+    <PRCP>201.6</PRCP>
+  </row>
+  <row>
+    <DATE>2004-06-01 00:00:00</DATE>
+    <TAVG>22.52</TAVG>
+    <PRCP>141.9</PRCP>
+  </row>
+  <row>
+    <DATE>2004-07-01 00:00:00</DATE>
+    <TAVG>25.26</TAVG>
+    <PRCP>167.2</PRCP>
+  </row>
+  <row>
+    <DATE>2004-08-01 00:00:00</DATE>
+    <TAVG>23.4</TAVG>
+    <PRCP>283.0</PRCP>
+  </row>
+  <row>
+    <DATE>2004-09-01 00:00:00</DATE>
+    <TAVG>22.1</TAVG>
+    <PRCP>44.9</PRCP>
+  </row>
+  <row>
+    <DATE>2004-10-01 00:00:00</DATE>
+    <TAVG>14.97</TAVG>
+    <PRCP/>
+  </row>
+  <row>
+    <DATE>2004-11-01 00:00:00</DATE>
+    <TAVG>7.83</TAVG>
+    <PRCP>27.3</PRCP>
+  </row>
+  <row>
+    <DATE>2004-12-01 00:00:00</DATE>
+    <TAVG>3.6</TAVG>
+    <PRCP>12.2</PRCP>
+  </row>
+  <row>
+    <DATE>2005-01-01 00:00:00</DATE>
+    <TAVG>-1.09</TAVG>
+    <PRCP>86.6</PRCP>
+  </row>
+  <row>
+    <DATE>2005-02-01 00:00:00</DATE>
+    <TAVG>4.5</TAVG>
+    <PRCP>61.6</PRCP>
+  </row>
+  <row>
+    <DATE>2005-03-01 00:00:00</DATE>
+    <TAVG>7.43</TAVG>
+    <PRCP>22.9</PRCP>
+  </row>
+  <row>
+    <DATE>2005-04-01 00:00:00</DATE>
+    <TAVG>14.87</TAVG>
+    <PRCP>64.8</PRCP>
+  </row>
+  <row>
+    <DATE>2005-05-01 00:00:00</DATE>
+    <TAVG>19.26</TAVG>
+    <PRCP>96.8</PRCP>
+  </row>
+  <row>
+    <DATE>2005-06-01 00:00:00</DATE>
+    <TAVG>25.25</TAVG>
+    <PRCP>253.8</PRCP>
+  </row>
+  <row>
+    <DATE>2005-07-01 00:00:00</DATE>
+    <TAVG>27.34</TAVG>
+    <PRCP>36.7</PRCP>
+  </row>
+  <row>
+    <DATE>2005-08-01 00:00:00</DATE>
+    <TAVG>26.34</TAVG>
+    <PRCP>249.2</PRCP>
+  </row>
+  <row>
+    <DATE>2005-09-01 00:00:00</DATE>
+    <TAVG>23.29</TAVG>
+    <PRCP>92.5</PRCP>
+  </row>
+  <row>
+    <DATE>2005-10-01 00:00:00</DATE>
+    <TAVG>14.82</TAVG>
+    <PRCP>61.8</PRCP>
+  </row>
+  <row>
+    <DATE>2005-11-01 00:00:00</DATE>
+    <TAVG>8.95</TAVG>
+    <PRCP>22.9</PRCP>
+  </row>
+  <row>
+    <DATE>2005-12-01 00:00:00</DATE>
+    <TAVG>-0.2</TAVG>
+    <PRCP>35.9</PRCP>
+  </row>
+  <row>
+    <DATE>2006-01-01 00:00:00</DATE>
+    <TAVG>5.63</TAVG>
+    <PRCP>6.0</PRCP>
+  </row>
+  <row>
+    <DATE>2006-02-01 00:00:00</DATE>
+    <TAVG>2.41</TAVG>
+    <PRCP>0.0</PRCP>
+  </row>
+  <row>
+    <DATE>2006-03-01 00:00:00</DATE>
+    <TAVG>7.91</TAVG>
+    <PRCP>45.4</PRCP>
+  </row>
+  <row>
+    <DATE>2006-04-01 00:00:00</DATE>
+    <TAVG>16.93</TAVG>
+    <PRCP>87.2</PRCP>
+  </row>
+  <row>
+    <DATE>2006-05-01 00:00:00</DATE>
+    <TAVG>19.5</TAVG>
+    <PRCP>46.0</PRCP>
+  </row>
+  <row>
+    <DATE>2006-06-01 00:00:00</DATE>
+    <TAVG>25.41</TAVG>
+    <PRCP>45.3</PRCP>
+  </row>
+  <row>
+    <DATE>2006-07-01 00:00:00</DATE>
+    <TAVG>28.48</TAVG>
+    <PRCP>91.6</PRCP>
+  </row>
+  <row>
+    <DATE>2006-08-01 00:00:00</DATE>
+    <TAVG>27.18</TAVG>
+    <PRCP>164.4</PRCP>
+  </row>
+  <row>
+    <DATE>2006-09-01 00:00:00</DATE>
+    <TAVG>19.45</TAVG>
+    <PRCP>33.8</PRCP>
+  </row>
+  <row>
+    <DATE>2006-10-01 00:00:00</DATE>
+    <TAVG>13.14</TAVG>
+    <PRCP>110.4</PRCP>
+  </row>
+  <row>
+    <DATE>2006-11-01 00:00:00</DATE>
+    <TAVG>8.56</TAVG>
+    <PRCP>41.7</PRCP>
+  </row>
+  <row>
+    <DATE>2006-12-01 00:00:00</DATE>
+    <TAVG>4.25</TAVG>
+    <PRCP>57.2</PRCP>
+  </row>
+  <row>
+    <DATE>2007-01-01 00:00:00</DATE>
+    <TAVG>-0.46</TAVG>
+    <PRCP>23.0</PRCP>
+  </row>
+  <row>
+    <DATE>2007-02-01 00:00:00</DATE>
+    <TAVG>-1.04</TAVG>
+    <PRCP>70.5</PRCP>
+  </row>
+  <row>
+    <DATE>2007-03-01 00:00:00</DATE>
+    <TAVG>11.89</TAVG>
+    <PRCP>65.8</PRCP>
+  </row>
+  <row>
+    <DATE>2007-04-01 00:00:00</DATE>
+    <TAVG>12.02</TAVG>
+    <PRCP>92.0</PRCP>
+  </row>
+  <row>
+    <DATE>2007-05-01 00:00:00</DATE>
+    <TAVG>21.29</TAVG>
+    <PRCP>217.8</PRCP>
+  </row>
+  <row>
+    <DATE>2007-06-01 00:00:00</DATE>
+    <TAVG>23.83</TAVG>
+    <PRCP>149.9</PRCP>
+  </row>
+  <row>
+    <DATE>2007-07-01 00:00:00</DATE>
+    <TAVG>27.04</TAVG>
+    <PRCP>1.4</PRCP>
+  </row>
+  <row>
+    <DATE>2007-08-01 00:00:00</DATE>
+    <TAVG>29.34</TAVG>
+    <PRCP>35.7</PRCP>
+  </row>
+  <row>
+    <DATE>2007-09-01 00:00:00</DATE>
+    <TAVG>22.84</TAVG>
+    <PRCP>94.3</PRCP>
+  </row>
+  <row>
+    <DATE>2007-10-01 00:00:00</DATE>
+    <TAVG>16.4</TAVG>
+    <PRCP>165.9</PRCP>
+  </row>
+  <row>
+    <DATE>2007-11-01 00:00:00</DATE>
+    <TAVG>7.53</TAVG>
+    <PRCP>8.4</PRCP>
+  </row>
+  <row>
+    <DATE>2007-12-01 00:00:00</DATE>
+    <TAVG>0.09</TAVG>
+    <PRCP>60.7</PRCP>
+  </row>
+  <row>
+    <DATE>2008-01-01 00:00:00</DATE>
+    <TAVG>-0.77</TAVG>
+    <PRCP>35.6</PRCP>
+  </row>
+  <row>
+    <DATE>2008-02-01 00:00:00</DATE>
+    <TAVG>-1.01</TAVG>
+    <PRCP>87.1</PRCP>
+  </row>
+  <row>
+    <DATE>2008-03-01 00:00:00</DATE>
+    <TAVG>6.49</TAVG>
+    <PRCP>76.9</PRCP>
+  </row>
+  <row>
+    <DATE>2008-04-01 00:00:00</DATE>
+    <TAVG>11.78</TAVG>
+    <PRCP>120.7</PRCP>
+  </row>
+  <row>
+    <DATE>2008-05-01 00:00:00</DATE>
+    <TAVG>18.45</TAVG>
+    <PRCP>79.5</PRCP>
+  </row>
+  <row>
+    <DATE>2008-06-01 00:00:00</DATE>
+    <TAVG>24.53</TAVG>
+    <PRCP>156.7</PRCP>
+  </row>
+  <row>
+    <DATE>2008-07-01 00:00:00</DATE>
+    <TAVG>26.36</TAVG>
+    <PRCP>232.7</PRCP>
+  </row>
+  <row>
+    <DATE>2008-08-01 00:00:00</DATE>
+    <TAVG>25.12</TAVG>
+    <PRCP>47.3</PRCP>
+  </row>
+  <row>
+    <DATE>2008-09-01 00:00:00</DATE>
+    <TAVG>19.99</TAVG>
+    <PRCP>302.6</PRCP>
+  </row>
+  <row>
+    <DATE>2008-10-01 00:00:00</DATE>
+    <TAVG>14.03</TAVG>
+    <PRCP>94.6</PRCP>
+  </row>
+  <row>
+    <DATE>2008-11-01 00:00:00</DATE>
+    <TAVG>7.21</TAVG>
+    <PRCP>43.0</PRCP>
+  </row>
+  <row>
+    <DATE>2008-12-01 00:00:00</DATE>
+    <TAVG>-0.68</TAVG>
+    <PRCP>41.1</PRCP>
+  </row>
+  <row>
+    <DATE>2009-01-01 00:00:00</DATE>
+    <TAVG>-1.72</TAVG>
+    <PRCP>2.3</PRCP>
+  </row>
+  <row>
+    <DATE>2009-02-01 00:00:00</DATE>
+    <TAVG>3.82</TAVG>
+    <PRCP>26.9</PRCP>
+  </row>
+  <row>
+    <DATE>2009-03-01 00:00:00</DATE>
+    <TAVG>8.4</TAVG>
+    <PRCP>107.7</PRCP>
+  </row>
+  <row>
+    <DATE>2009-04-01 00:00:00</DATE>
+    <TAVG>12.5</TAVG>
+    <PRCP>212.9</PRCP>
+  </row>
+  <row>
+    <DATE>2009-05-01 00:00:00</DATE>
+    <TAVG>19.43</TAVG>
+    <PRCP>86.7</PRCP>
+  </row>
+  <row>
+    <DATE>2009-06-01 00:00:00</DATE>
+    <TAVG>24.97</TAVG>
+    <PRCP>202.2</PRCP>
+  </row>
+  <row>
+    <DATE>2009-07-01 00:00:00</DATE>
+    <TAVG>24.4</TAVG>
+    <PRCP>139.5</PRCP>
+  </row>
+  <row>
+    <DATE>2009-08-01 00:00:00</DATE>
+    <TAVG>24.19</TAVG>
+    <PRCP>204.1</PRCP>
+  </row>
+  <row>
+    <DATE>2009-09-01 00:00:00</DATE>
+    <TAVG>19.95</TAVG>
+    <PRCP>82.4</PRCP>
+  </row>
+  <row>
+    <DATE>2009-10-01 00:00:00</DATE>
+    <TAVG>10.67</TAVG>
+    <PRCP>133.4</PRCP>
+  </row>
+  <row>
+    <DATE>2009-11-01 00:00:00</DATE>
+    <TAVG>10.29</TAVG>
+    <PRCP>41.2</PRCP>
+  </row>
+  <row>
+    <DATE>2009-12-01 00:00:00</DATE>
+    <TAVG>-1.58</TAVG>
+    <PRCP>51.1</PRCP>
+  </row>
+  <row>
+    <DATE>2010-01-01 00:00:00</DATE>
+    <TAVG>-4.07</TAVG>
+    <PRCP>19.4</PRCP>
+  </row>
+  <row>
+    <DATE>2010-02-01 00:00:00</DATE>
+    <TAVG>-1.89</TAVG>
+    <PRCP>30.6</PRCP>
+  </row>
+  <row>
+    <DATE>2010-03-01 00:00:00</DATE>
+    <TAVG>7.8</TAVG>
+    <PRCP>60.6</PRCP>
+  </row>
+  <row>
+    <DATE>2010-04-01 00:00:00</DATE>
+    <TAVG>16.72</TAVG>
+    <PRCP>120.8</PRCP>
+  </row>
+  <row>
+    <DATE>2010-05-01 00:00:00</DATE>
+    <TAVG>18.63</TAVG>
+    <PRCP>164.7</PRCP>
+  </row>
+  <row>
+    <DATE>2010-06-01 00:00:00</DATE>
+    <TAVG>26.39</TAVG>
+    <PRCP>138.9</PRCP>
+  </row>
+  <row>
+    <DATE>2010-07-01 00:00:00</DATE>
+    <TAVG>27.66</TAVG>
+    <PRCP>121.0</PRCP>
+  </row>
+  <row>
+    <DATE>2010-08-01 00:00:00</DATE>
+    <TAVG>27.3</TAVG>
+    <PRCP>103.7</PRCP>
+  </row>
+  <row>
+    <DATE>2010-09-01 00:00:00</DATE>
+    <TAVG>20.82</TAVG>
+    <PRCP>181.5</PRCP>
+  </row>
+  <row>
+    <DATE>2010-10-01 00:00:00</DATE>
+    <TAVG>16.52</TAVG>
+    <PRCP>25.2</PRCP>
+  </row>
+  <row>
+    <DATE>2010-11-01 00:00:00</DATE>
+    <TAVG>8.26</TAVG>
+    <PRCP>50.1</PRCP>
+  </row>
+  <row>
+    <DATE>2010-12-01 00:00:00</DATE>
+    <TAVG>-0.37</TAVG>
+    <PRCP>7.4</PRCP>
+  </row>
+  <row>
+    <DATE>2011-01-01 00:00:00</DATE>
+    <TAVG>-3.61</TAVG>
+    <PRCP>8.9</PRCP>
+  </row>
+  <row>
+    <DATE>2011-02-01 00:00:00</DATE>
+    <TAVG>-0.02</TAVG>
+    <PRCP>49.6</PRCP>
+  </row>
+  <row>
+    <DATE>2011-03-01 00:00:00</DATE>
+    <TAVG>7.38</TAVG>
+    <PRCP>34.9</PRCP>
+  </row>
+  <row>
+    <DATE>2011-04-01 00:00:00</DATE>
+    <TAVG>14.12</TAVG>
+    <PRCP>86.3</PRCP>
+  </row>
+  <row>
+    <DATE>2011-05-01 00:00:00</DATE>
+    <TAVG>18.11</TAVG>
+    <PRCP>71.5</PRCP>
+  </row>
+  <row>
+    <DATE>2011-06-01 00:00:00</DATE>
+    <TAVG>25.73</TAVG>
+    <PRCP>109.2</PRCP>
+  </row>
+  <row>
+    <DATE>2011-07-01 00:00:00</DATE>
+    <TAVG>29.94</TAVG>
+    <PRCP>83.4</PRCP>
+  </row>
+  <row>
+    <DATE>2011-08-01 00:00:00</DATE>
+    <TAVG>27.09</TAVG>
+    <PRCP>137.5</PRCP>
+  </row>
+  <row>
+    <DATE>2011-09-01 00:00:00</DATE>
+    <TAVG>19.79</TAVG>
+    <PRCP>23.2</PRCP>
+  </row>
+  <row>
+    <DATE>2011-10-01 00:00:00</DATE>
+    <TAVG>15.75</TAVG>
+    <PRCP>4.3</PRCP>
+  </row>
+  <row>
+    <DATE>2011-11-01 00:00:00</DATE>
+    <TAVG>8.28</TAVG>
+    <PRCP>89.7</PRCP>
+  </row>
+  <row>
+    <DATE>2011-12-01 00:00:00</DATE>
+    <TAVG>3.78</TAVG>
+    <PRCP>44.9</PRCP>
+  </row>
+  <row>
+    <DATE>2012-01-01 00:00:00</DATE>
+    <TAVG>3.21</TAVG>
+    <PRCP>5.6</PRCP>
+  </row>
+  <row>
+    <DATE>2012-02-01 00:00:00</DATE>
+    <TAVG>4.6</TAVG>
+    <PRCP>28.2</PRCP>
+  </row>
+  <row>
+    <DATE>2012-03-01 00:00:00</DATE>
+    <TAVG>15.71</TAVG>
+    <PRCP>82.5</PRCP>
+  </row>
+  <row>
+    <DATE>2012-04-01 00:00:00</DATE>
+    <TAVG>16.3</TAVG>
+    <PRCP>34.0</PRCP>
+  </row>
+  <row>
+    <DATE>2012-05-01 00:00:00</DATE>
+    <TAVG>22.23</TAVG>
+    <PRCP>46.8</PRCP>
+  </row>
+  <row>
+    <DATE>2012-06-01 00:00:00</DATE>
+    <TAVG>26.46</TAVG>
+    <PRCP>56.9</PRCP>
+  </row>
+  <row>
+    <DATE>2012-07-01 00:00:00</DATE>
+    <TAVG>31.14</TAVG>
+    <PRCP>21.6</PRCP>
+  </row>
+  <row>
+    <DATE>2012-08-01 00:00:00</DATE>
+    <TAVG>26.48</TAVG>
+    <PRCP>90.3</PRCP>
+  </row>
+  <row>
+    <DATE>2012-09-01 00:00:00</DATE>
+    <TAVG>21.06</TAVG>
+    <PRCP>76.1</PRCP>
+  </row>
+  <row>
+    <DATE>2012-10-01 00:00:00</DATE>
+    <TAVG>13.57</TAVG>
+    <PRCP>29.1</PRCP>
+  </row>
+  <row>
+    <DATE>2012-11-01 00:00:00</DATE>
+    <TAVG>9.45</TAVG>
+    <PRCP>39.4</PRCP>
+  </row>
+  <row>
+    <DATE>2012-12-01 00:00:00</DATE>
+    <TAVG>3.6</TAVG>
+    <PRCP>19.4</PRCP>
+  </row>
+  <row>
+    <DATE>2013-01-01 00:00:00</DATE>
+    <TAVG>1.99</TAVG>
+    <PRCP>24.4</PRCP>
+  </row>
+  <row>
+    <DATE>2013-02-01 00:00:00</DATE>
+    <TAVG>1.6</TAVG>
+    <PRCP>37.9</PRCP>
+  </row>
+  <row>
+    <DATE>2013-03-01 00:00:00</DATE>
+    <TAVG>4.59</TAVG>
+    <PRCP>19.1</PRCP>
+  </row>
+  <row>
+    <DATE>2013-04-01 00:00:00</DATE>
+    <TAVG>11.28</TAVG>
+    <PRCP>94.9</PRCP>
+  </row>
+  <row>
+    <DATE>2013-05-01 00:00:00</DATE>
+    <TAVG>18.28</TAVG>
+    <PRCP>151.7</PRCP>
+  </row>
+  <row>
+    <DATE>2013-06-01 00:00:00</DATE>
+    <TAVG>24.41</TAVG>
+    <PRCP>125.1</PRCP>
+  </row>
+  <row>
+    <DATE>2013-07-01 00:00:00</DATE>
+    <TAVG>26.25</TAVG>
+    <PRCP>36.4</PRCP>
+  </row>
+  <row>
+    <DATE>2013-08-01 00:00:00</DATE>
+    <TAVG>26.09</TAVG>
+    <PRCP>38.0</PRCP>
+  </row>
+  <row>
+    <DATE>2013-09-01 00:00:00</DATE>
+    <TAVG>23.42</TAVG>
+    <PRCP>138.9</PRCP>
+  </row>
+  <row>
+    <DATE>2013-10-01 00:00:00</DATE>
+    <TAVG>14.31</TAVG>
+    <PRCP>81.0</PRCP>
+  </row>
+  <row>
+    <DATE>2013-11-01 00:00:00</DATE>
+    <TAVG>6.12</TAVG>
+    <PRCP>16.4</PRCP>
+  </row>
+  <row>
+    <DATE>2013-12-01 00:00:00</DATE>
+    <TAVG>-0.31</TAVG>
+    <PRCP>6.2</PRCP>
+  </row>
+  <row>
+    <DATE>2014-01-01 00:00:00</DATE>
+    <TAVG>-2.45</TAVG>
+    <PRCP>1.6</PRCP>
+  </row>
+  <row>
+    <DATE>2014-02-01 00:00:00</DATE>
+    <TAVG>-2.43</TAVG>
+    <PRCP>14.2</PRCP>
+  </row>
+  <row>
+    <DATE>2014-03-01 00:00:00</DATE>
+    <TAVG>5.85</TAVG>
+    <PRCP>20.6</PRCP>
+  </row>
+  <row>
+    <DATE>2014-04-01 00:00:00</DATE>
+    <TAVG>13.28</TAVG>
+    <PRCP>92.7</PRCP>
+  </row>
+  <row>
+    <DATE>2014-05-01 00:00:00</DATE>
+    <TAVG>20.12</TAVG>
+    <PRCP>34.9</PRCP>
+  </row>
+  <row>
+    <DATE>2014-06-01 00:00:00</DATE>
+    <TAVG>24.81</TAVG>
+    <PRCP>197.5</PRCP>
+  </row>
+  <row>
+    <DATE>2014-07-01 00:00:00</DATE>
+    <TAVG>24.84</TAVG>
+    <PRCP>58.2</PRCP>
+  </row>
+  <row>
+    <DATE>2014-08-01 00:00:00</DATE>
+    <TAVG>26.85</TAVG>
+    <PRCP>142.8</PRCP>
+  </row>
+  <row>
+    <DATE>2014-09-01 00:00:00</DATE>
+    <TAVG>20.96</TAVG>
+    <PRCP>51.3</PRCP>
+  </row>
+  <row>
+    <DATE>2014-10-01 00:00:00</DATE>
+    <TAVG>15.51</TAVG>
+    <PRCP>197.8</PRCP>
+  </row>
+  <row>
+    <DATE>2014-11-01 00:00:00</DATE>
+    <TAVG>4.66</TAVG>
+    <PRCP>4.6</PRCP>
+  </row>
+  <row>
+    <DATE>2014-12-01 00:00:00</DATE>
+    <TAVG>2.75</TAVG>
+    <PRCP>32.1</PRCP>
+  </row>
+  <row>
+    <DATE>2015-01-01 00:00:00</DATE>
+    <TAVG>1.06</TAVG>
+    <PRCP>9.2</PRCP>
+  </row>
+  <row>
+    <DATE>2015-02-01 00:00:00</DATE>
+    <TAVG>-2.15</TAVG>
+    <PRCP>7.2</PRCP>
+  </row>
+  <row>
+    <DATE>2015-03-01 00:00:00</DATE>
+    <TAVG>9.62</TAVG>
+    <PRCP>9.5</PRCP>
+  </row>
+  <row>
+    <DATE>2015-04-01 00:00:00</DATE>
+    <TAVG>15.26</TAVG>
+    <PRCP>75.2</PRCP>
+  </row>
+  <row>
+    <DATE>2015-05-01 00:00:00</DATE>
+    <TAVG>18.98</TAVG>
+    <PRCP>221.7</PRCP>
+  </row>
+  <row>
+    <DATE>2015-06-01 00:00:00</DATE>
+    <TAVG>25.34</TAVG>
+    <PRCP>107.3</PRCP>
+  </row>
+  <row>
+    <DATE>2015-07-01 00:00:00</DATE>
+    <TAVG>26.73</TAVG>
+    <PRCP>145.1</PRCP>
+  </row>
+  <row>
+    <DATE>2015-08-01 00:00:00</DATE>
+    <TAVG>25.3</TAVG>
+    <PRCP>42.0</PRCP>
+  </row>
+  <row>
+    <DATE>2015-09-01 00:00:00</DATE>
+    <TAVG>23.92</TAVG>
+    <PRCP>66.7</PRCP>
+  </row>
+  <row>
+    <DATE>2015-10-01 00:00:00</DATE>
+    <TAVG>15.75</TAVG>
+    <PRCP>16.1</PRCP>
+  </row>
+  <row>
+    <DATE>2015-11-01 00:00:00</DATE>
+    <TAVG>10.29</TAVG>
+    <PRCP>111.7</PRCP>
+  </row>
+  <row>
+    <DATE>2015-12-01 00:00:00</DATE>
+    <TAVG>5.91</TAVG>
+    <PRCP>55.3</PRCP>
+  </row>
+  <row>
+    <DATE>2016-01-01 00:00:00</DATE>
+    <TAVG>0.27</TAVG>
+    <PRCP>6.9</PRCP>
+  </row>
+  <row>
+    <DATE>2016-02-01 00:00:00</DATE>
+    <TAVG>5.35</TAVG>
+    <PRCP>9.9</PRCP>
+  </row>
+  <row>
+    <DATE>2016-03-01 00:00:00</DATE>
+    <TAVG>11.81</TAVG>
+    <PRCP>27.9</PRCP>
+  </row>
+  <row>
+    <DATE>2016-04-01 00:00:00</DATE>
+    <TAVG>15.37</TAVG>
+    <PRCP>94.0</PRCP>
+  </row>
+  <row>
+    <DATE>2016-05-01 00:00:00</DATE>
+    <TAVG>18.18</TAVG>
+    <PRCP>253.7</PRCP>
+  </row>
+  <row>
+    <DATE>2016-06-01 00:00:00</DATE>
+    <TAVG>27.17</TAVG>
+    <PRCP>23.2</PRCP>
+  </row>
+  <row>
+    <DATE>2016-07-01 00:00:00</DATE>
+    <TAVG>27.6</TAVG>
+    <PRCP>134.6</PRCP>
+  </row>
+  <row>
+    <DATE>2016-08-01 00:00:00</DATE>
+    <TAVG>26.75</TAVG>
+    <PRCP>215.7</PRCP>
+  </row>
+  <row>
+    <DATE>2016-09-01 00:00:00</DATE>
+    <TAVG>23.43</TAVG>
+    <PRCP>84.4</PRCP>
+  </row>
+  <row>
+    <DATE>2016-10-01 00:00:00</DATE>
+    <TAVG>18.15</TAVG>
+    <PRCP>44.4</PRCP>
+  </row>
+  <row>
+    <DATE>2016-11-01 00:00:00</DATE>
+    <TAVG>12.01</TAVG>
+    <PRCP>15.2</PRCP>
+  </row>
+  <row>
+    <DATE>2016-12-01 00:00:00</DATE>
+    <TAVG>0.31</TAVG>
+    <PRCP>11.8</PRCP>
+  </row>
+  <row>
+    <DATE>2017-01-01 00:00:00</DATE>
+    <TAVG>1.57</TAVG>
+    <PRCP>16.1</PRCP>
+  </row>
+  <row>
+    <DATE>2017-02-01 00:00:00</DATE>
+    <TAVG>7.99</TAVG>
+    <PRCP>0.0</PRCP>
+  </row>
+  <row>
+    <DATE>2017-03-01 00:00:00</DATE>
+    <TAVG>10.35</TAVG>
+    <PRCP>63.8</PRCP>
+  </row>
+  <row>
+    <DATE>2017-04-01 00:00:00</DATE>
+    <TAVG>15.25</TAVG>
+    <PRCP>108.2</PRCP>
+  </row>
+  <row>
+    <DATE>2017-05-01 00:00:00</DATE>
+    <TAVG>19.23</TAVG>
+    <PRCP>48.6</PRCP>
+  </row>
+  <row>
+    <DATE>2017-06-01 00:00:00</DATE>
+    <TAVG>25.0</TAVG>
+    <PRCP>176.2</PRCP>
+  </row>
+  <row>
+    <DATE>2017-07-01 00:00:00</DATE>
+    <TAVG>27.62</TAVG>
+    <PRCP>201.8</PRCP>
+  </row>
+  <row>
+    <DATE>2017-08-01 00:00:00</DATE>
+    <TAVG>23.71</TAVG>
+    <PRCP>287.2</PRCP>
+  </row>
+  <row>
+    <DATE>2017-09-01 00:00:00</DATE>
+    <TAVG>23.43</TAVG>
+    <PRCP>37.4</PRCP>
+  </row>
+  <row>
+    <DATE>2017-10-01 00:00:00</DATE>
+    <TAVG>15.85</TAVG>
+    <PRCP>110.5</PRCP>
+  </row>
+  <row>
+    <DATE>2017-11-01 00:00:00</DATE>
+    <TAVG>8.77</TAVG>
+    <PRCP>1.5</PRCP>
+  </row>
+  <row>
+    <DATE>2017-12-01 00:00:00</DATE>
+    <TAVG>1.76</TAVG>
+    <PRCP>1.3</PRCP>
+  </row>
+  <row>
+    <DATE>2018-01-01 00:00:00</DATE>
+    <TAVG>-0.42</TAVG>
+    <PRCP>9.1</PRCP>
+  </row>
+  <row>
+    <DATE>2018-02-01 00:00:00</DATE>
+    <TAVG>1.89</TAVG>
+    <PRCP>13.0</PRCP>
+  </row>
+  <row>
+    <DATE>2018-03-01 00:00:00</DATE>
+    <TAVG>7.84</TAVG>
+    <PRCP>49.8</PRCP>
+  </row>
+  <row>
+    <DATE>2018-04-01 00:00:00</DATE>
+    <TAVG>9.81</TAVG>
+    <PRCP>8.4</PRCP>
+  </row>
+  <row>
+    <DATE>2018-05-01 00:00:00</DATE>
+    <TAVG>24.31</TAVG>
+    <PRCP>90.0</PRCP>
+  </row>
+  <row>
+    <DATE>2018-06-01 00:00:00</DATE>
+    <TAVG>27.22</TAVG>
+    <PRCP>51.9</PRCP>
+  </row>
+  <row>
+    <DATE>2018-07-01 00:00:00</DATE>
+    <TAVG>27.78</TAVG>
+    <PRCP>26.6</PRCP>
+  </row>
+  <row>
+    <DATE>2018-08-01 00:00:00</DATE>
+    <TAVG>27.02</TAVG>
+    <PRCP>62.9</PRCP>
+  </row>
+  <row>
+    <DATE>2018-09-01 00:00:00</DATE>
+    <TAVG>23.2</TAVG>
+    <PRCP>40.1</PRCP>
+  </row>
+  <row>
+    <DATE>2018-10-01 00:00:00</DATE>
+    <TAVG>14.38</TAVG>
+    <PRCP>213.2</PRCP>
+  </row>
+  <row>
+    <DATE>2018-11-01 00:00:00</DATE>
+    <TAVG>3.5</TAVG>
+    <PRCP>16.0</PRCP>
+  </row>
+  <row>
+    <DATE>2018-12-01 00:00:00</DATE>
+    <TAVG>2.91</TAVG>
+    <PRCP>47.3</PRCP>
+  </row>
+  <row>
+    <DATE>2019-01-01 00:00:00</DATE>
+    <TAVG>-0.49</TAVG>
+    <PRCP>18.9</PRCP>
+  </row>
+  <row>
+    <DATE>2019-02-01 00:00:00</DATE>
+    <TAVG>-0.66</TAVG>
+    <PRCP>34.5</PRCP>
+  </row>
+  <row>
+    <DATE>2019-03-01 00:00:00</DATE>
+    <TAVG>5.98</TAVG>
+    <PRCP>39.1</PRCP>
+  </row>
+  <row>
+    <DATE>2019-04-01 00:00:00</DATE>
+    <TAVG>14.96</TAVG>
+    <PRCP>68.4</PRCP>
+  </row>
+  <row>
+    <DATE>2019-05-01 00:00:00</DATE>
+    <TAVG>18.52</TAVG>
+    <PRCP>280.8</PRCP>
+  </row>
+  <row>
+    <DATE>2019-06-01 00:00:00</DATE>
+    <TAVG>24.87</TAVG>
+    <PRCP>164.4</PRCP>
+  </row>
+  <row>
+    <DATE>2019-07-01 00:00:00</DATE>
+    <TAVG>27.18</TAVG>
+    <PRCP>104.0</PRCP>
+  </row>
+  <row>
+    <DATE>2019-08-01 00:00:00</DATE>
+    <TAVG>25.9</TAVG>
+    <PRCP>188.1</PRCP>
+  </row>
+  <row>
+    <DATE>2019-09-01 00:00:00</DATE>
+    <TAVG>25.87</TAVG>
+    <PRCP>131.1</PRCP>
+  </row>
+  <row>
+    <DATE>2019-10-01 00:00:00</DATE>
+    <TAVG>11.86</TAVG>
+    <PRCP>41.3</PRCP>
+  </row>
+  <row>
+    <DATE>2019-11-01 00:00:00</DATE>
+    <TAVG>5.53</TAVG>
+    <PRCP>16.5</PRCP>
+  </row>
+  <row>
+    <DATE>2019-12-01 00:00:00</DATE>
+    <TAVG>3.85</TAVG>
+    <PRCP>25.7</PRCP>
+  </row>
+  <row>
+    <DATE>2020-01-01 00:00:00</DATE>
+    <TAVG>0.76</TAVG>
+    <PRCP>30.9</PRCP>
+  </row>
+  <row>
+    <DATE>2020-02-01 00:00:00</DATE>
+    <TAVG>2.4</TAVG>
+    <PRCP>4.3</PRCP>
+  </row>
+  <row>
+    <DATE>2020-03-01 00:00:00</DATE>
+    <TAVG>9.99</TAVG>
+    <PRCP>59.4</PRCP>
+  </row>
+  <row>
+    <DATE>2020-04-01 00:00:00</DATE>
+    <TAVG>12.17</TAVG>
+    <PRCP>39.9</PRCP>
+  </row>
+  <row>
+    <DATE>2020-05-01 00:00:00</DATE>
+    <TAVG>17.63</TAVG>
+    <PRCP>141.5</PRCP>
+  </row>
+  <row>
+    <DATE>2020-06-01 00:00:00</DATE>
+    <TAVG>26.53</TAVG>
+    <PRCP>54.5</PRCP>
+  </row>
+  <row>
+    <DATE>2020-07-01 00:00:00</DATE>
+    <TAVG>27.2</TAVG>
+    <PRCP>188.3</PRCP>
+  </row>
+  <row>
+    <DATE>2020-08-01 00:00:00</DATE>
+    <TAVG>25.12</TAVG>
+    <PRCP>44.2</PRCP>
+  </row>
+  <row>
+    <DATE>2020-09-01 00:00:00</DATE>
+    <TAVG>20.04</TAVG>
+    <PRCP>48.1</PRCP>
+  </row>
+  <row>
+    <DATE>2020-10-01 00:00:00</DATE>
+    <TAVG>12.5</TAVG>
+    <PRCP>15.0</PRCP>
+  </row>
+  <row>
+    <DATE>2020-11-01 00:00:00</DATE>
+    <TAVG>10.07</TAVG>
+    <PRCP>25.7</PRCP>
+  </row>
+  <row>
+    <DATE>2020-12-01 00:00:00</DATE>
+    <TAVG>2.79</TAVG>
+    <PRCP>16.8</PRCP>
+  </row>
+  <row>
+    <DATE>2021-01-01 00:00:00</DATE>
+    <TAVG>1.31</TAVG>
+    <PRCP>33.1</PRCP>
+  </row>
+  <row>
+    <DATE>2021-02-01 00:00:00</DATE>
+    <TAVG>-4.78</TAVG>
+    <PRCP>0.8</PRCP>
+  </row>
+  <row>
+    <DATE>2021-03-01 00:00:00</DATE>
+    <TAVG>10.19</TAVG>
+    <PRCP>60.8</PRCP>
+  </row>
+  <row>
+    <DATE>2021-04-01 00:00:00</DATE>
+    <TAVG>13.17</TAVG>
+    <PRCP>26.4</PRCP>
+  </row>
+  <row>
+    <DATE>2021-05-01 00:00:00</DATE>
+    <TAVG>17.65</TAVG>
+    <PRCP>125.5</PRCP>
+  </row>
+  <row>
+    <DATE>2021-06-01 00:00:00</DATE>
+    <TAVG>25.6</TAVG>
+    <PRCP>143.8</PRCP>
+  </row>
+  <row>
+    <DATE>2021-07-01 00:00:00</DATE>
+    <TAVG>26.69</TAVG>
+    <PRCP>58.7</PRCP>
+  </row>
+  <row>
+    <DATE>2021-08-01 00:00:00</DATE>
+    <TAVG>27.06</TAVG>
+    <PRCP>59.2</PRCP>
+  </row>
+  <row>
+    <DATE>2021-09-01 00:00:00</DATE>
+    <TAVG>23.81</TAVG>
+    <PRCP>60.5</PRCP>
+  </row>
+  <row>
+    <DATE>2021-10-01 00:00:00</DATE>
+    <TAVG>16.13</TAVG>
+    <PRCP>47.5</PRCP>
+  </row>
+  <row>
+    <DATE>2021-11-01 00:00:00</DATE>
+    <TAVG>8.85</TAVG>
+    <PRCP>21.1</PRCP>
+  </row>
+  <row>
+    <DATE>2021-12-01 00:00:00</DATE>
+    <TAVG>6.98</TAVG>
+    <PRCP>5.1</PRCP>
+  </row>
+  <row>
+    <DATE>2022-01-01 00:00:00</DATE>
+    <TAVG>-1.18</TAVG>
+    <PRCP>4.9</PRCP>
+  </row>
+  <row>
+    <DATE>2022-02-01 00:00:00</DATE>
+    <TAVG>0.38</TAVG>
+    <PRCP>8.2</PRCP>
+  </row>
+  <row>
+    <DATE>2022-03-01 00:00:00</DATE>
+    <TAVG>7.46</TAVG>
+    <PRCP>89.9</PRCP>
+  </row>
+  <row>
+    <DATE>2022-04-01 00:00:00</DATE>
+    <TAVG>12.76</TAVG>
+    <PRCP>39.2</PRCP>
+  </row>
+  <row>
+    <DATE>2022-05-01 00:00:00</DATE>
+    <TAVG>19.59</TAVG>
+    <PRCP>156.4</PRCP>
+  </row>
+  <row>
+    <DATE>2022-06-01 00:00:00</DATE>
+    <TAVG>25.45</TAVG>
+    <PRCP>40.1</PRCP>
+  </row>
+  <row>
+    <DATE>2022-07-01 00:00:00</DATE>
+    <TAVG>27.28</TAVG>
+    <PRCP>69.6</PRCP>
+  </row>
+  <row>
+    <DATE>2022-08-01 00:00:00</DATE>
+    <TAVG>26.61</TAVG>
+    <PRCP>27.7</PRCP>
+  </row>
+  <row>
+    <DATE>2022-09-01 00:00:00</DATE>
+    <TAVG>22.59</TAVG>
+    <PRCP>17.8</PRCP>
+  </row>
+  <row>
+    <DATE>2022-10-01 00:00:00</DATE>
+    <TAVG>15.0</TAVG>
+    <PRCP>26.0</PRCP>
+  </row>
+  <row>
+    <DATE>2022-11-01 00:00:00</DATE>
+    <TAVG>6.27</TAVG>
+    <PRCP>85.8</PRCP>
+  </row>
+  <row>
+    <DATE>2022-12-01 00:00:00</DATE>
+    <TAVG>0.63</TAVG>
+    <PRCP>17.9</PRCP>
+  </row>
+  <row>
+    <DATE>2023-01-01 00:00:00</DATE>
+    <TAVG>1.97</TAVG>
+    <PRCP>58.3</PRCP>
+  </row>
+  <row>
+    <DATE>2023-02-01 00:00:00</DATE>
+    <TAVG>3.89</TAVG>
+    <PRCP>47.1</PRCP>
+  </row>
+  <row>
+    <DATE>2023-03-01 00:00:00</DATE>
+    <TAVG>6.55</TAVG>
+    <PRCP>49.6</PRCP>
+  </row>
+  <row>
+    <DATE>2023-04-01 00:00:00</DATE>
+    <TAVG>14.39</TAVG>
+    <PRCP>37.3</PRCP>
+  </row>
+  <row>
+    <DATE>2023-05-01 00:00:00</DATE>
+    <TAVG>20.51</TAVG>
+    <PRCP>64.8</PRCP>
+  </row>
+  <row>
+    <DATE>2023-06-01 00:00:00</DATE>
+    <TAVG>25.2</TAVG>
+    <PRCP>24.4</PRCP>
+  </row>
+  <row>
+    <DATE>2023-07-01 00:00:00</DATE>
+    <TAVG>26.48</TAVG>
+    <PRCP>153.4</PRCP>
+  </row>
+  <row>
+    <DATE>2023-08-01 00:00:00</DATE>
+    <TAVG>26.65</TAVG>
+    <PRCP>109.7</PRCP>
+  </row>
+  <row>
+    <DATE>2023-09-01 00:00:00</DATE>
+    <TAVG>23.48</TAVG>
+    <PRCP>21.2</PRCP>
+  </row>
+  <row>
+    <DATE>2023-10-01 00:00:00</DATE>
+    <TAVG>15.44</TAVG>
+    <PRCP>89.0</PRCP>
+  </row>
+  <row>
+    <DATE>2023-11-01 00:00:00</DATE>
+    <TAVG>8.36</TAVG>
+    <PRCP>11.1</PRCP>
+  </row>
+  <row>
+    <DATE>2023-12-01 00:00:00</DATE>
+    <TAVG>5.91</TAVG>
+    <PRCP>77.9</PRCP>
+  </row>
+  <row>
+    <DATE>2024-01-01 00:00:00</DATE>
+    <TAVG>-2.49</TAVG>
+    <PRCP>43.7</PRCP>
+  </row>
+  <row>
+    <DATE>2024-02-01 00:00:00</DATE>
+    <TAVG>7.96</TAVG>
+    <PRCP>3.3</PRCP>
+  </row>
+  <row>
+    <DATE>2024-03-01 00:00:00</DATE>
+    <TAVG>10.96</TAVG>
+    <PRCP>57.5</PRCP>
+  </row>
+  <row>
+    <DATE>2024-04-01 00:00:00</DATE>
+    <TAVG/>
+    <PRCP/>
+  </row>
+</data>
